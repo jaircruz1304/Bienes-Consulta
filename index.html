@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#123B35">
+  <title>Consulta de Bienes FIAS</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="brand-mark">F</div>
+      <div>
+        <strong>FIAS</strong>
+        <span>Consulta digital de bienes</span>
+      </div>
+    </div>
+    <button id="printBtn" class="ghost-btn" type="button" hidden>Imprimir ficha</button>
+  </header>
+
+  <main class="shell">
+    <section class="hero">
+      <p class="eyebrow">GESTIÓN DE ACTIVOS</p>
+      <h1>Ficha digital del bien</h1>
+      <p class="hero-copy">Consulta institucional mediante código QR o código de inventario.</p>
+
+      <form id="searchForm" class="search-box">
+        <label for="searchInput">Código del bien</label>
+        <div class="search-row">
+          <input id="searchInput" autocomplete="off" placeholder="Ej. FIAS.00.01.001">
+          <button type="submit">Consultar</button>
+        </div>
+        <div id="suggestions" class="suggestions" hidden></div>
+      </form>
+    </section>
+
+    <section id="loading" class="state-card">Cargando información…</section>
+    <section id="notFound" class="state-card error" hidden>
+      <h2>Bien no encontrado</h2>
+      <p>Verifique el código impreso en la etiqueta o utilice el buscador.</p>
+    </section>
+
+    <article id="assetView" class="asset-view" hidden>
+      <section class="asset-head card">
+        <div class="asset-photo" id="photoBox">
+          <div class="photo-placeholder">
+            <span>FIAS</span>
+            <small>Fotografía del bien</small>
+          </div>
+        </div>
+        <div class="asset-summary">
+          <div class="summary-top">
+            <div>
+              <span class="code" id="assetCode"></span>
+              <h2 id="assetName"></h2>
+              <p id="assetExtra"></p>
+            </div>
+            <span id="assetStatus" class="status-pill"></span>
+          </div>
+
+          <div class="quick-grid">
+            <div><span>Custodio</span><strong id="assetCustodian"></strong></div>
+            <div><span>Ubicación</span><strong id="assetLocation"></strong></div>
+            <div><span>Marca / modelo</span><strong id="assetBrandModel"></strong></div>
+            <div><span>N.° de serie</span><strong id="assetSerial"></strong></div>
+          </div>
+
+          <div class="actions">
+            <button id="copyBtn" type="button">Copiar enlace</button>
+            <a id="photoBtn" class="secondary-btn" target="_blank" rel="noopener" hidden>Abrir fotografía</a>
+          </div>
+        </div>
+      </section>
+
+      <div id="sections"></div>
+
+      <section class="card qr-note">
+        <div>
+          <span class="eyebrow">ENLACE QR</span>
+          <h3>Dirección permanente de esta ficha</h3>
+          <code id="permalink"></code>
+        </div>
+      </section>
+    </article>
+  </main>
+
+  <footer>
+    <span>FIAS · Sistema de consulta de bienes</span>
+    <span>La información mostrada depende de la fuente institucional publicada.</span>
+  </footer>
+
+  <script src="./config.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>
