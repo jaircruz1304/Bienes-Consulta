@@ -1,9 +1,9 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-09-22T14:49:19.716365Z",
-  "sourceLastModified": null,
-  "sourceETag": "INITIAL_SNAPSHOT",
-  "sourceName": "Inventario Mejorado.xlsx",
+  "generatedAt": "2026-09-22T15:57:54.959261Z",
+  "sourceLastModified": "2026-09-22T15:45:25Z",
+  "sourceETag": "\"{1A1CDC3E-FDB8-41B0-8591-D30A37D5C5D2},2691\"",
+  "sourceName": "INVENTARIO FIAS INSTITUCIONAL VFD.xlsx",
   "assetCount": 439,
-  "mode": "initial-snapshot"
+  "mode": "synchronized-json"
 }
