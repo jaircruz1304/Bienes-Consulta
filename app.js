@@ -17,7 +17,6 @@
     const d=new Date(s.length===10 ? `${s}T00:00:00` : s);
     return Number.isNaN(d.getTime()) ? s : new Intl.DateTimeFormat('es-EC',{day:'2-digit',month:'2-digit',year:'numeric'}).format(d);
   };
-  const permanent = code => `${C.baseUrl}?codigo=${encodeURIComponent(code)}`;
 
   async function load(){
     const join=C.dataUrl.includes('?')?'&':'?';
@@ -51,16 +50,26 @@
 
   function renderPhoto(a){
     const box=$('photo'), link=$('photoLink');
-    box.innerHTML='<div class="photo-placeholder"><span>FIAS</span><small>Activo institucional</small></div>';
+    box.innerHTML='<div class="photo-placeholder"><img src="./assets/fias-institucional.svg" alt="FIAS"><small>Fotografía del bien no disponible</small></div>';
     const url=a.foto_url || (a.documentos||[]).find(d=>norm(d.tipo)==='FOTOGRAFIA')?.url;
     show(link,!!isUrl(url)); if(isUrl(url)) link.href=url;
     if(!isUrl(url)) return;
     const img=new Image();
     img.alt=`Fotografía de ${a.codigo}`;
+    img.className='asset-image';
     img.onload=()=>{box.innerHTML='';box.appendChild(img)};
     img.onerror=()=>{};
     img.referrerPolicy='no-referrer';
     img.src=url + (url.includes('?')?'&':'?') + 'download=1';
+  }
+
+  function renderPrimaryActions(a){
+    const docs=(a.documentos||[]).filter(d=>isUrl(d.url));
+    const invoice=docs.find(d=>norm(d.tipo)==='FACTURA');
+    const policy=docs.find(d=>norm(d.tipo)==='POLIZA');
+    const invoiceBtn=$('invoiceBtn'), policyBtn=$('policyBtn');
+    show(invoiceBtn,!!invoice); if(invoice) invoiceBtn.href=invoice.url;
+    show(policyBtn,!!policy); if(policy) policyBtn.href=policy.url;
   }
 
   function renderDocs(a){
@@ -70,7 +79,10 @@
     const order={FACTURA:1,POLIZA:2,ACTA_ENTREGA:3,ACTA_CUSTODIA:4,GARANTIA:5,FOTOGRAFIA:8,OTRO:9};
     docs.sort((x,y)=>(order[norm(x.tipo)]||50)-(order[norm(y.tipo)]||50));
     const labels={FACTURA:'FACTURA',POLIZA:'PÓLIZA',ACTA_ENTREGA:'ACTA DE ENTREGA',ACTA_CUSTODIA:'ACTA DE CUSTODIA',GARANTIA:'GARANTÍA',FOTOGRAFIA:'FOTOGRAFÍA',OTRO:'DOCUMENTO'};
-    box.innerHTML=docs.map(d=>`<article class="doc"><span class="doc-type">${esc(labels[norm(d.tipo)]||d.tipo||'DOCUMENTO')}</span><strong>${esc(d.nombre||'Documento de respaldo')}</strong><a href="${esc(d.url)}" target="_blank" rel="noopener noreferrer">Abrir documento →</a></article>`).join('');
+    box.innerHTML=docs.map(d=>{
+      const details=[d.detalle,d.vigencia?`Vigencia: ${d.vigencia}`:null].filter(Boolean).map(x=>`<p>${esc(x)}</p>`).join('');
+      return `<article class="doc"><span class="doc-type">${esc(labels[norm(d.tipo)]||d.tipo||'DOCUMENTO')}</span><strong>${esc(d.nombre||'Documento de respaldo')}</strong>${details}<a href="${esc(d.url)}" target="_blank" rel="noopener noreferrer">Abrir documento →</a></article>`;
+    }).join('');
     show(panel,true);
   }
 
@@ -84,7 +96,7 @@
     $('assetLocation').textContent=val(a.ubicacion);
     $('assetBrandModel').textContent=[clean(a.marca),clean(a.modelo)].filter(Boolean).join(' / ')||'No registrado';
     $('assetPhysical').textContent=val(a.estado_fisico);
-    renderStatuses(a);renderPhoto(a);renderDocs(a);
+    renderStatuses(a);renderPhoto(a);renderPrimaryActions(a);renderDocs(a);
 
     const d=[];
     d.push(section('Identificación','ACTIVO',[
@@ -109,7 +121,7 @@
   }
 
   function find(code){const k=norm(code);return payload.assets.find(a=>norm(a.codigo)===k)||null}
-  function open(code){const a=find(code);if(!a){show($('asset'),false);show($('notFound'),true);return}render(a)}
+  function open(code){const a=find(code);if(!a){show($('asset'),false);show($('notFound'),true);show($('printBtn'),false);return}render(a)}
   function search(q){const n=norm(q);if(n.length<2)return[];return payload.assets.filter(a=>[a.codigo,a.descripcion,a.descripcion_adicional,a.custodio,a.ubicacion,a.serie,a.marca,a.modelo].some(v=>norm(v).includes(n))).slice(0,C.maxSuggestions||8)}
   function suggestions(q){
     const box=$('suggestions'),hits=search(q);if(!hits.length){show(box,false);return}
@@ -124,7 +136,6 @@
 
   $('searchForm').addEventListener('submit',e=>{e.preventDefault();show($('suggestions'),false);open($('searchInput').value)});
   $('searchInput').addEventListener('input',e=>suggestions(e.target.value));
-  $('copyBtn').addEventListener('click',async()=>{const code=$('assetCode').textContent;await navigator.clipboard.writeText(permanent(code));const b=$('copyBtn'),old=b.textContent;b.textContent='Enlace copiado';setTimeout(()=>b.textContent=old,1300)});
   $('printBtn').addEventListener('click',()=>window.print());
 
   (async()=>{try{await load();show($('loading'),false);renderFreshness();const code=new URLSearchParams(location.search).get('codigo');if(code){$('searchInput').value=code;open(code)}}catch(e){console.error(e);show($('loading'),false);show($('error'),true);$('errorText').textContent=e.message||'Error al cargar la base.'}})();

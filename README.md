@@ -14,3 +14,9 @@ Proyecto de producción para consultar bienes mediante QR en GitHub Pages, mante
 - También admite ejecución inmediata mediante `workflow_dispatch` o `repository_dispatch`.
 
 Empiece por `docs/IMPLEMENTACION.md`.
+
+---
+
+## Actualización visual v3 — septiembre 2026
+
+Se incorporó una interfaz responsive renovada, fotografía ampliada, cabecera institucional, acceso primario a factura, acceso a póliza asociada y anclaje automático de las pólizas 205415 y 201380. Consulte `README_UI_V3.md` para el detalle.

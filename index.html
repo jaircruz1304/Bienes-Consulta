@@ -2,31 +2,30 @@
 <html lang="es">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="robots" content="noindex,nofollow,noarchive">
-  <meta name="theme-color" content="#113b35">
+  <meta name="theme-color" content="#123f38">
   <title>Bienes FIAS</title>
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
 <header class="topbar">
-  <a class="brand" href="./" aria-label="Inicio">
-    <span class="brand-mark">F</span>
-    <span><b>FIAS</b><small>Gestión de bienes</small></span>
+  <a class="brand" href="./" aria-label="Inicio de Consulta de Bienes FIAS">
+    <img src="./assets/fias-institucional.svg" alt="FIAS - Fondo de Inversión Ambiental Sostenible">
   </a>
   <div class="top-actions">
     <span id="freshness" class="freshness" hidden></span>
-    <button id="printBtn" class="btn btn-quiet" type="button" hidden>Imprimir</button>
+    <button id="printBtn" class="btn btn-quiet" type="button" hidden>Imprimir ficha</button>
   </div>
 </header>
 
 <main class="shell">
   <section class="hero">
-    <div>
+    <div class="hero-copy">
       <p class="eyebrow">CONSULTA INSTITUCIONAL</p>
       <h1>Ficha digital del bien</h1>
-      <p>Consulta rápida mediante código QR o código de inventario.</p>
+      <p>Consulta rápida y centralizada del inventario institucional mediante código QR o código de bien.</p>
     </div>
     <form id="searchForm" class="search" autocomplete="off">
       <label for="searchInput">Código o descripción</label>
@@ -50,8 +49,11 @@
 
   <article id="asset" class="asset" hidden>
     <section class="asset-hero panel">
-      <div id="photo" class="photo">
-        <div class="photo-placeholder"><span>FIAS</span><small>Activo institucional</small></div>
+      <div id="photo" class="photo" aria-label="Fotografía del bien">
+        <div class="photo-placeholder">
+          <img src="./assets/fias-institucional.svg" alt="FIAS">
+          <small>Fotografía del bien no disponible</small>
+        </div>
       </div>
       <div class="asset-main">
         <div class="asset-heading">
@@ -62,14 +64,17 @@
           </div>
           <div id="specialStatuses" class="status-stack" hidden></div>
         </div>
+
         <div class="quick-grid">
           <div id="quickCustodian"><span>Custodio</span><strong id="assetCustodian"></strong></div>
           <div><span>Ubicación</span><strong id="assetLocation"></strong></div>
           <div><span>Marca / modelo</span><strong id="assetBrandModel"></strong></div>
           <div><span>Estado físico</span><strong id="assetPhysical"></strong></div>
         </div>
+
         <div class="action-row">
-          <button id="copyBtn" class="btn" type="button">Copiar enlace</button>
+          <a id="invoiceBtn" class="btn" target="_blank" rel="noopener noreferrer" hidden>Abrir factura</a>
+          <a id="policyBtn" class="btn btn-secondary" target="_blank" rel="noopener noreferrer" hidden>Abrir póliza</a>
           <a id="photoLink" class="btn btn-secondary" target="_blank" rel="noopener noreferrer" hidden>Abrir fotografía</a>
         </div>
       </div>
@@ -88,7 +93,10 @@
 </main>
 
 <footer class="footer">
-  <span>FIAS · Consulta digital de bienes</span>
+  <div class="footer-brand">
+    <strong>FIAS</strong>
+    <span>Fondo de Inversión Ambiental Sostenible</span>
+  </div>
   <span>Fuente oficial: inventario institucional sincronizado.</span>
 </footer>
 <script src="./config.js"></script>

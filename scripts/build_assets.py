@@ -18,6 +18,29 @@ SHEET_DOCUMENTS = "DOCUMENTOS_BIENES"  # optional
 
 ERROR_VALUES = {"#REF!", "#VALUE!", "#N/A", "#NAME?", "VERIFICAR"}
 
+# Pólizas institucionales ancladas para consulta directa.
+# Se aplican únicamente cuando el número de póliza del bien coincide.
+POLICY_DOCUMENTS = {
+    "205415": {
+        "nombre": "Póliza Vehicular No. 205415",
+        "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/205415.pdf",
+        "detalle": "Cobertura vehicular institucional; referencia registrada para Toyota Fortuner placa PDF-8770.",
+        "vigencia": "01/01/2026 al 01/01/2027",
+    },
+    "201380": {
+        "nombre": "Póliza Multirriesgo No. 201380",
+        "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
+        "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
+        "vigencia": "01/01/2026 al 01/01/2027",
+    },
+}
+
+def policy_key(v):
+    if v is None:
+        return None
+    m=re.search(r"\b(\d{6})\b", str(v))
+    return m.group(1) if m else None
+
 def norm(v):
     s = "" if v is None else str(v)
     s = unicodedata.normalize("NFD", s)
@@ -177,6 +200,15 @@ def main():
         docs=[]
         if is_url(factura_url): docs.append({"tipo":"FACTURA","nombre":f"Factura {numero_factura or ''}".strip(),"url":factura_url})
         if is_url(acta): docs.append({"tipo":"ACTA_ENTREGA","nombre":"Acta de entrega / custodia","url":acta})
+
+        # Vinculación automática de pólizas institucionales por número.
+        pk=policy_key(poliza)
+        policy_doc=POLICY_DOCUMENTS.get(pk)
+        if policy_doc:
+            docs.append({"tipo":"POLIZA", **policy_doc})
+        elif is_url(poliza):
+            docs.append({"tipo":"POLIZA","nombre":"Póliza de seguro","url":poliza})
+
         if is_url(photo): docs.append({"tipo":"FOTOGRAFIA","nombre":"Fotografía del bien","url":photo})
         docs.extend(extra_docs.get(code.upper(),[]))
         # de-duplicate URLs
@@ -194,7 +226,7 @@ def main():
     assets.sort(key=lambda x:x["codigo"].upper())
 
     meta={
-        "schemaVersion":2,
+        "schemaVersion":3,
         "generatedAt":datetime.now(timezone.utc).isoformat().replace("+00:00","Z"),
         "sourceLastModified":os.environ.get("SOURCE_LAST_MODIFIED") or None,
         "sourceETag":os.environ.get("SOURCE_ETAG") or None,
