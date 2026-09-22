@@ -50,7 +50,7 @@
 
   function renderPhoto(a){
     const box=$('photo'), link=$('photoLink');
-    box.innerHTML='<div class="photo-placeholder"><img src="./assets/fias-institucional.svg" alt="FIAS"><small>Fotografía del bien no disponible</small></div>';
+    box.innerHTML='<div class="photo-placeholder"><img src="https://fias.org.ec/wp-content/uploads/2021/11/Logo_FIAS_web.png" alt="Logo oficial FIAS"><small>Fotografía del bien no disponible</small></div>';
     const url=a.foto_url || (a.documentos||[]).find(d=>norm(d.tipo)==='FOTOGRAFIA')?.url;
     show(link,!!isUrl(url)); if(isUrl(url)) link.href=url;
     if(!isUrl(url)) return;

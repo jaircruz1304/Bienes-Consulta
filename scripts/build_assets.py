@@ -23,13 +23,13 @@ ERROR_VALUES = {"#REF!", "#VALUE!", "#N/A", "#NAME?", "VERIFICAR"}
 POLICY_DOCUMENTS = {
     "205415": {
         "nombre": "Póliza Vehicular No. 205415",
-        "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/205415.pdf",
+        "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQBouryl0D4zQKJsMI647PYMAd97tciEG9DO1v-Z9fwDWTE?e=NVTlds",
         "detalle": "Cobertura vehicular institucional; referencia registrada para Toyota Fortuner placa PDF-8770.",
         "vigencia": "01/01/2026 al 01/01/2027",
     },
     "201380": {
         "nombre": "Póliza Multirriesgo No. 201380",
-        "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
+        "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQC9D6Pxpa8GQpLHK7ErGsQNASOUPisr1J3CbL0SeBzdDl4?e=sli8hq",
         "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
         "vigencia": "01/01/2026 al 01/01/2027",
     },

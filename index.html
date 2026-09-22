@@ -4,35 +4,51 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="robots" content="noindex,nofollow,noarchive">
-  <meta name="theme-color" content="#123f38">
-  <title>Bienes FIAS</title>
+  <meta name="theme-color" content="#005596">
+  <title>Consulta de Bienes | FIAS</title>
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
 <header class="topbar">
-  <a class="brand" href="./" aria-label="Inicio de Consulta de Bienes FIAS">
-    <img src="./assets/fias-institucional.svg" alt="FIAS - Fondo de Inversión Ambiental Sostenible">
-  </a>
-  <div class="top-actions">
-    <span id="freshness" class="freshness" hidden></span>
-    <button id="printBtn" class="btn btn-quiet" type="button" hidden>Imprimir ficha</button>
+  <div class="topbar-inner">
+    <a class="brand" href="./" aria-label="Inicio de Consulta de Bienes FIAS">
+      <img
+        class="brand-logo"
+        src="https://fias.org.ec/wp-content/uploads/2021/11/Logo_FIAS_web.png"
+        alt="Logo oficial FIAS"
+      >
+      <span class="brand-divider" aria-hidden="true"></span>
+      <span class="brand-copy">
+        <span>Consulta Institucional</span>
+        <strong>Gestión de Bienes</strong>
+      </span>
+    </a>
+
+    <div class="top-actions">
+      <span id="freshness" class="freshness" hidden></span>
+      <a class="portal-link" href="https://jaircruz1304.github.io/FIAS/Portal-Digital.html#herramientas" target="_blank" rel="noopener noreferrer">Portal FIAS</a>
+      <button id="printBtn" class="btn btn-quiet" type="button" hidden>Imprimir ficha</button>
+    </div>
   </div>
 </header>
 
 <main class="shell">
   <section class="hero">
+    <div class="hero-overlay" aria-hidden="true"></div>
     <div class="hero-copy">
-      <p class="eyebrow">CONSULTA INSTITUCIONAL</p>
+      <p class="hero-badge">PLATAFORMA DE CONSULTA PATRIMONIAL</p>
       <h1>Ficha digital del bien</h1>
-      <p>Consulta rápida y centralizada del inventario institucional mediante código QR o código de bien.</p>
+      <p>Consulta rápida, centralizada y actualizada del inventario institucional del FIAS mediante código QR o código del activo.</p>
     </div>
+
     <form id="searchForm" class="search" autocomplete="off">
       <label for="searchInput">Código o descripción</label>
       <div class="search-row">
         <input id="searchInput" type="search" placeholder="Ej. FIAS.26.03.083" aria-autocomplete="list">
         <button class="btn" type="submit">Consultar</button>
       </div>
+      <p class="search-help">Puede buscar por código, descripción, custodio, ubicación, serie, marca o modelo.</p>
       <div id="suggestions" class="suggestions" hidden></div>
     </form>
   </section>
@@ -51,10 +67,11 @@
     <section class="asset-hero panel">
       <div id="photo" class="photo" aria-label="Fotografía del bien">
         <div class="photo-placeholder">
-          <img src="./assets/fias-institucional.svg" alt="FIAS">
+          <img src="https://fias.org.ec/wp-content/uploads/2021/11/Logo_FIAS_web.png" alt="Logo oficial FIAS">
           <small>Fotografía del bien no disponible</small>
         </div>
       </div>
+
       <div class="asset-main">
         <div class="asset-heading">
           <div>
@@ -93,12 +110,15 @@
 </main>
 
 <footer class="footer">
-  <div class="footer-brand">
-    <strong>FIAS</strong>
-    <span>Fondo de Inversión Ambiental Sostenible</span>
+  <div class="footer-inner">
+    <div class="footer-brand">
+      <img src="https://fias.org.ec/wp-content/uploads/2021/11/Logo_FIAS_web.png" alt="FIAS">
+      <span>Fondo de Inversión Ambiental Sostenible</span>
+    </div>
+    <span>Fuente oficial: inventario institucional sincronizado.</span>
   </div>
-  <span>Fuente oficial: inventario institucional sincronizado.</span>
 </footer>
+
 <script src="./config.js"></script>
 <script src="./app.js"></script>
 </body>
