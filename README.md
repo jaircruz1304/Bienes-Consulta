@@ -1,30 +1,45 @@
-# FIAS · Consulta Institucional de Bienes · UI v6
+# FIAS — Consulta de Bienes v8
 
-Versión visual simplificada y orientada a la consulta patrimonial, manteniendo la arquitectura de datos ya operativa:
+Plataforma de consulta patrimonial mediante GitHub Pages con **Excel institucional como fuente oficial**, JSON sincronizado para consultas rápidas y fotografías locales optimizadas para navegación pública.
 
-**Excel oficial en OneDrive/SharePoint → GitHub Actions → assets.json → GitHub Pages**
+## Arquitectura
 
-## Criterio visual
-La identidad FIAS se mantiene de forma institucional, pero sin competir con la información del activo. El logo oficial se utiliza una sola vez en la cabecera. La interfaz evita banners decorativos, repetición de marcas y elementos visuales sin relación directa con la consulta de bienes.
+- **Fuente oficial:** `INVENTARIO FIAS INSTITUCIONAL VFD.xlsx` en OneDrive/SharePoint.
+- **Consulta web:** GitHub Pages.
+- **Datos:** `data/assets.json`, regenerado automáticamente cuando cambia el Excel.
+- **Fotografías:** `assets/bienes/*.webp`, generadas automáticamente desde la hoja `Link_fotos`.
+- **Autenticación de automatización:** Microsoft Entra + OIDC + Microsoft Graph.
+- **URL de consulta:** `https://jaircruz1304.github.io/Bienes-Consulta/?codigo=...`
 
-## Cambios principales
-- Logo oficial FIAS solo en la cabecera.
-- Eliminación del banner fotográfico de Mapa de Activos.
-- Buscador compacto y funcional.
-- Pie de página textual, sin repetición de logo.
-- Placeholder neutro cuando no existe fotografía.
-- Fotografía del bien amplia y prioritaria cuando sí existe.
-- Diseño responsivo para escritorio, tablet y móvil.
-- Botones contextuales: Abrir factura, Abrir póliza y Abrir fotografía.
-- Pólizas 201380 y 205415 conservadas con sus enlaces definitivos.
-- Sin historial de movimientos.
+## Fotografías
 
-## Implementación
-Para actualizar una instalación v5 basta con sustituir principalmente:
-- `index.html`
-- `styles.css`
-- `app.js`
+Las fotos originales pueden estar en formatos diferentes. No deben convertirse manualmente. `scripts/sync_photos.py` normaliza automáticamente JPG, PNG, WEBP, HEIC/HEIF, GIF, BMP, TIFF y formatos compatibles a WEBP optimizado.
 
-Puede subir el paquete completo si desea mantener todos los archivos sincronizados.
+El navegador **no accede a SharePoint para mostrar la foto**. Las imágenes se sirven desde el mismo GitHub Pages, por lo que funcionan en incógnito y sin sesión Microsoft.
 
-No es necesario modificar Microsoft Entra, Azure, GitHub Actions ni las variables `AZURE_CLIENT_ID`, `AZURE_TENANT_ID`, `GRAPH_DRIVE_ID` y `GRAPH_ITEM_ID`.
+## Variables existentes
+
+No cambian:
+
+- `AZURE_CLIENT_ID`
+- `AZURE_TENANT_ID`
+- `GRAPH_DRIVE_ID`
+- `GRAPH_ITEM_ID`
+
+## Primera puesta en marcha de v8
+
+1. Subir el contenido del proyecto a la raíz del repositorio `Bienes-Consulta`.
+2. Ir a **Actions → Sincronizar inventario → Run workflow**.
+3. La primera ejecución puede tardar más porque debe copiar y convertir las fotografías existentes.
+4. Verificar que aparezcan archivos `.webp` dentro de `assets/bienes/`.
+5. Abrir una ficha en una ventana de incógnito y confirmar que la imagen carga sin autenticación Microsoft.
+
+## Actualizaciones posteriores
+
+- Cambio en Excel: revisión cada 15 minutos.
+- Cambio del archivo fotográfico conservando el mismo enlace: revisión diaria mediante `Verificar fotografías`.
+- Nueva foto o cambio de enlace en `Link_fotos`: se procesa con la siguiente sincronización del inventario.
+
+## Documentación adicional
+
+Ver `README_UI_V8.md` para detalles de formatos, manifest, caché y operación.

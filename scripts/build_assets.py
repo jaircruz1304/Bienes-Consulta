@@ -15,6 +15,7 @@ SHEET_INVENTORY = "Inventario Mejorado"
 SHEET_PHOTOS = "Link_fotos"
 SHEET_INVOICE_LINKS = "links"
 SHEET_DOCUMENTS = "DOCUMENTOS_BIENES"  # optional
+PHOTO_MANIFEST = Path("data/photos-manifest.json")
 
 ERROR_VALUES = {"#REF!", "#VALUE!", "#N/A", "#NAME?", "VERIFICAR"}
 
@@ -134,6 +135,24 @@ def doc_rows(wb):
         out.setdefault(str(code).strip().upper(),[]).append(d)
     return out
 
+def load_photo_manifest(path=PHOTO_MANIFEST):
+    try:
+        obj=json.loads(Path(path).read_text(encoding="utf-8"))
+        assets=obj.get("assets",{}) if isinstance(obj,dict) else {}
+        return assets if isinstance(assets,dict) else {}
+    except Exception:
+        return {}
+
+def local_photo(photo_manifest, code):
+    info=photo_manifest.get(str(code).strip().upper())
+    if not isinstance(info,dict) or info.get("status") != "ok":
+        return None, None
+    path=info.get("localPath")
+    version=info.get("version")
+    if not isinstance(path,str) or not path.startswith("./assets/bienes/"):
+        return None, None
+    return path, version
+
 def main():
     ap=argparse.ArgumentParser()
     ap.add_argument("workbook")
@@ -145,7 +164,7 @@ def main():
     if SHEET_INVENTORY not in wb.sheetnames:
         raise SystemExit(f"No existe la hoja requerida: {SHEET_INVENTORY}")
 
-    photos=two_col_map(wb[SHEET_PHOTOS]) if SHEET_PHOTOS in wb.sheetnames else {}
+    photo_manifest=load_photo_manifest()
     invoice_links=two_col_map(wb[SHEET_INVOICE_LINKS]) if SHEET_INVOICE_LINKS in wb.sheetnames else {}
     extra_docs=doc_rows(wb)
     assets=[]
@@ -158,7 +177,7 @@ def main():
         factura_url=first(r,"FACTURA DIGITAL")
         if not is_url(factura_url) and numero_factura:
             factura_url=invoice_links.get(str(numero_factura).strip().upper())
-        photo=photos.get(code.upper())
+        photo, photo_version=local_photo(photo_manifest, code)
         acta=starts(r,"ACTA ENTREGA")
         poliza=starts(r,"NRO DE POLIZA")
 
@@ -196,6 +215,7 @@ def main():
             "motivo_baja":starts(r,"MOTIVO DE BAJA"),
             "observaciones":first(r,"OBSERVACIONES"),
             "foto_url":photo,
+            "foto_version":photo_version,
         }
         docs=[]
         if is_url(factura_url): docs.append({"tipo":"FACTURA","nombre":f"Factura {numero_factura or ''}".strip(),"url":factura_url})
@@ -209,7 +229,7 @@ def main():
         elif is_url(poliza):
             docs.append({"tipo":"POLIZA","nombre":"Póliza de seguro","url":poliza})
 
-        if is_url(photo): docs.append({"tipo":"FOTOGRAFIA","nombre":"Fotografía del bien","url":photo})
+        if photo: docs.append({"tipo":"FOTOGRAFIA","nombre":"Fotografía del bien","url":photo})
         docs.extend(extra_docs.get(code.upper(),[]))
         # de-duplicate URLs
         seen=set(); a["documentos"]=[]
@@ -226,13 +246,14 @@ def main():
     assets.sort(key=lambda x:x["codigo"].upper())
 
     meta={
-        "schemaVersion":3,
+        "schemaVersion":4,
         "generatedAt":datetime.now(timezone.utc).isoformat().replace("+00:00","Z"),
         "sourceLastModified":os.environ.get("SOURCE_LAST_MODIFIED") or None,
         "sourceETag":os.environ.get("SOURCE_ETAG") or None,
         "sourceName":os.environ.get("SOURCE_NAME") or Path(args.workbook).name,
         "assetCount":len(assets),
-        "mode":"synchronized-json"
+        "mode":"synchronized-json-local-media",
+        "localPhotoCount":sum(1 for a in assets if a.get("foto_url"))
     }
     out=Path(args.output);out.parent.mkdir(parents=True,exist_ok=True)
     out.write_text(json.dumps({"meta":meta,"assets":assets},ensure_ascii=False,indent=2),encoding="utf-8")

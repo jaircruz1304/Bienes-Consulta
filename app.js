@@ -6,7 +6,8 @@
   const clean = v => (v === null || v === undefined || v === '' || /^N\/?A$/i.test(String(v).trim())) ? null : v;
   const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
   const norm = s => String(s ?? '').normalize('NFD').replace(/[\u0300-\u036f]/g,'').toUpperCase().replace(/\s+/g,' ').trim();
-  const isUrl = s => /^https?:\/\//i.test(String(s ?? '').trim());
+  const isHref = s => { const v=String(s ?? '').trim(); return /^https?:\/\//i.test(v) || /^(?:\.\/)?assets\/bienes\/[A-Za-z0-9._-]+\.webp(?:\?.*)?$/i.test(v); };
+  const isLocalPhoto = s => /^(?:\.\/)?assets\/bienes\/[A-Za-z0-9._-]+\.webp(?:\?.*)?$/i.test(String(s ?? '').trim());
   const show = (el,on=true) => el.hidden = !on;
   const val = v => clean(v) ?? 'No registrado';
   const money = v => { const n=Number(v); return Number.isFinite(n) ? new Intl.NumberFormat('es-EC',{style:'currency',currency:'USD'}).format(n) : val(v); };
@@ -52,19 +53,24 @@
     const box=$('photo'), link=$('photoLink');
     box.innerHTML='<div class="photo-placeholder"><div class="photo-icon" aria-hidden="true"><svg viewBox="0 0 64 64"><path d="M18 20h8l4-6h8l4 6h8a6 6 0 0 1 6 6v22a6 6 0 0 1-6 6H14a6 6 0 0 1-6-6V26a6 6 0 0 1 6-6h4Z"/><circle cx="32" cy="37" r="10"/></svg></div><strong>Sin fotografía registrada</strong><small>La ficha mantiene disponible el resto de la información del bien.</small></div>';
     const url=a.foto_url || (a.documentos||[]).find(d=>norm(d.tipo)==='FOTOGRAFIA')?.url;
-    show(link,!!isUrl(url)); if(isUrl(url)) link.href=url;
-    if(!isUrl(url)) return;
+    const photoHref = isHref(url) ? String(url) : null;
+    show(link,!!photoHref); if(photoHref) link.href=photoHref;
+    if(!photoHref) return;
     const img=new Image();
     img.alt=`Fotografía de ${a.codigo}`;
     img.className='asset-image';
     img.onload=()=>{box.innerHTML='';box.appendChild(img)};
     img.onerror=()=>{};
     img.referrerPolicy='no-referrer';
-    img.src=url + (url.includes('?')?'&':'?') + 'download=1';
+    if(isLocalPhoto(photoHref) && clean(a.foto_version)){
+      img.src=photoHref + (photoHref.includes('?')?'&':'?') + 'v=' + encodeURIComponent(a.foto_version);
+    }else{
+      img.src=photoHref;
+    }
   }
 
   function renderPrimaryActions(a){
-    const docs=(a.documentos||[]).filter(d=>isUrl(d.url));
+    const docs=(a.documentos||[]).filter(d=>isHref(d.url));
     const invoice=docs.find(d=>norm(d.tipo)==='FACTURA');
     const policy=docs.find(d=>norm(d.tipo)==='POLIZA');
     const invoiceBtn=$('invoiceBtn'), policyBtn=$('policyBtn');
@@ -73,7 +79,7 @@
   }
 
   function renderDocs(a){
-    const docs=(a.documentos||[]).filter(d=>isUrl(d.url));
+    const docs=(a.documentos||[]).filter(d=>isHref(d.url));
     const panel=$('docsPanel'), box=$('documents');
     if(!docs.length){show(panel,false);box.innerHTML='';return;}
     const order={FACTURA:1,POLIZA:2,ACTA_ENTREGA:3,ACTA_CUSTODIA:4,GARANTIA:5,FOTOGRAFIA:8,OTRO:9};

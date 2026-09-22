@@ -1,9 +1,10 @@
 {
-  "schemaVersion": 3,
-  "generatedAt": "2026-09-22T16:52:46.972557Z",
-  "sourceLastModified": null,
-  "sourceETag": null,
-  "sourceName": "fc8a1e5a-eefe-48ce-af56-89277275c9b6.xlsx",
+  "schemaVersion": 4,
+  "generatedAt": "2026-09-22T18:07:44.695327Z",
+  "sourceLastModified": "2026-09-22T00:00:00Z",
+  "sourceETag": "test",
+  "sourceName": "INVENTARIO FIAS INSTITUCIONAL VFD.xlsx",
   "assetCount": 439,
-  "mode": "synchronized-json"
+  "mode": "synchronized-json-local-media",
+  "localPhotoCount": 0
 }
