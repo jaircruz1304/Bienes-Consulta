@@ -1,9 +1,9 @@
-window.FIAS_CONFIG = {
+window.BIENES_CONFIG = {
   appName: "Consulta de Bienes FIAS",
   organization: "FIAS",
-  baseUrl: "https://fias-activos.github.io/consulta/",
-  dataMode: "json",
+  baseUrl: "https://jaircruz1304.github.io/Bienes-Consulta/",
   dataUrl: "./data/assets.json",
-  viewMode: "public",
-  showSearchWhenNoCode: true
+  showFinancialValues: true,
+  showCustodian: true,
+  maxSuggestions: 8
 };

@@ -1,20 +1,27 @@
-# Arquitectura recomendada
+# Arquitectura de producción
 
-## Flujo público
-QR → GitHub Pages → assets.json público → ficha resumida.
+```text
+Excel oficial (OneDrive / SharePoint)
+        │
+        │ Microsoft Graph (solo automatización)
+        ▼
+GitHub Actions ── compara eTag ──► sin cambio: termina
+        │
+        └── si cambió ─► descarga Excel ─► valida ─► assets.json
+                                               │
+                                               ▼
+                                      GitHub Pages / QR
+```
 
-## Flujo institucional recomendado
-QR → GitHub Pages → inicio de sesión Microsoft Entra ID → Microsoft Graph → OneDrive/SharePoint → tabla de Excel → ficha completa.
+## Principios
 
-### Ventajas
-- Una sola URL de aplicación.
-- Un QR por código de bien.
-- Excel continúa como fuente maestra.
-- No se duplica información sensible en un repositorio público.
-- Los permisos permanecen alineados con Microsoft 365.
+1. **Fuente única:** el Excel institucional sigue siendo el registro oficial.
+2. **Lectura rápida:** el navegador consulta un JSON estático, no Microsoft Graph.
+3. **Actualización controlada:** el JSON cambia únicamente cuando el archivo fuente cambia y el resultado supera validaciones.
+4. **Continuidad:** si Microsoft 365 falla, la última versión válida del JSON sigue disponible.
+5. **Sin historial:** esta versión no implementa movimientos históricos.
+6. **Documentos condicionales:** factura, póliza, acta y otros enlaces solo aparecen si existen.
 
-### Datos sugeridos para vista pública
-Código, descripción, tipo, proyecto, marca, modelo, serie, ubicación, estado físico, seguro, garantía, observaciones y enlace de fotografía si este está autorizado para consulta pública.
+## Frecuencia
 
-### Datos sugeridos para vista autenticada
-Proveedor, RUC, factura, valor de adquisición, documentos de respaldo, cédula del custodio, depreciaciones y demás información financiera/administrativa.
+El flujo está configurado cada 15 minutos. Puede cambiarse en `.github/workflows/sync-inventory.yml`. La ejecución programada solo consulta metadatos; no descarga el Excel si el `eTag` permanece igual.
