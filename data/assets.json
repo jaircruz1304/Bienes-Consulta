@@ -1,10 +1,10 @@
 {
   "meta": {
     "schemaVersion": 3,
-    "generatedAt": "2026-09-22T17:00:45.470568Z",
-    "sourceLastModified": "2026-09-22T16:51:48Z",
-    "sourceETag": "\"{1A1CDC3E-FDB8-41B0-8591-D30A37D5C5D2},2723\"",
-    "sourceName": "INVENTARIO FIAS INSTITUCIONAL VFD.xlsx",
+    "generatedAt": "2026-09-22T16:52:46.972557Z",
+    "sourceLastModified": null,
+    "sourceETag": null,
+    "sourceName": "fc8a1e5a-eefe-48ce-af56-89277275c9b6.xlsx",
     "assetCount": 439,
     "mode": "synchronized-json"
   },
@@ -15750,7 +15750,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "EN BUEN ESTADO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBvFxrZUcaPRaY8eFjdkXUiASAbJi25EdU1WNXPokwm44M",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -15763,11 +15763,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBvFxrZUcaPRaY8eFjdkXUiASAbJi25EdU1WNXPokwm44M"
         }
       ],
       "estados_especiales": []
@@ -15805,7 +15800,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "EN BUEN ESTADO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQC8s7KC-MAEQqjk26KakFUpARCxsDz3q-5ntBE1NeAY6Uw",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -15818,11 +15813,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQC8s7KC-MAEQqjk26KakFUpARCxsDz3q-5ntBE1NeAY6Uw"
         }
       ],
       "estados_especiales": []
@@ -15860,7 +15850,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "EN BUEN ESTADO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBK8Kk5XRmYSKIRF-kqe4wZAY-0PcvTU7vV-j6x89FL5J8",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -15873,11 +15863,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBK8Kk5XRmYSKIRF-kqe4wZAY-0PcvTU7vV-j6x89FL5J8"
         }
       ],
       "estados_especiales": []
@@ -15915,7 +15900,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "EN BUEN ESTADO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCN9wxA4btATr-aUdPYslX0AVtD19yDE5gQ7KN7M_11gN8",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -15928,11 +15913,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCN9wxA4btATr-aUdPYslX0AVtD19yDE5gQ7KN7M_11gN8"
         }
       ],
       "estados_especiales": []
@@ -15970,17 +15950,12 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQB-kx9b2mL2QoCQej9Y9CAxAURn0UKsbaugWCZ5N4yCwCU",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "FACTURA",
           "nombre": "Factura 001-001-000000159",
           "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQA6_e87oQu_R4hMF7-j8H-GAZ-_Cn8pHUM1DC0VHcV0eHQ?e=2e8dia"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQB-kx9b2mL2QoCQej9Y9CAxAURn0UKsbaugWCZ5N4yCwCU"
         }
       ],
       "estados_especiales": []
@@ -16018,17 +15993,12 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQD2C5Ix3ndMSbTk23ToNqIpAWOGHoo-v4WC78Tl35BURFk",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "FACTURA",
           "nombre": "Factura 001-001-000000159",
           "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQA6_e87oQu_R4hMF7-j8H-GAZ-_Cn8pHUM1DC0VHcV0eHQ?e=2e8dia"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQD2C5Ix3ndMSbTk23ToNqIpAWOGHoo-v4WC78Tl35BURFk"
         }
       ],
       "estados_especiales": []
@@ -16066,17 +16036,12 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQAOqLMPLZJKS5jhUgtakOTKAdy1J_p5_O_p-eNzdUX45iI",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "FACTURA",
           "nombre": "Factura 001-011-000000494",
           "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCrV_DzKU_GRomECNUzFcpZAXJqoB1bzzZPHSzH8NqEziw?e=FIPNno"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQAOqLMPLZJKS5jhUgtakOTKAdy1J_p5_O_p-eNzdUX45iI"
         }
       ],
       "estados_especiales": []
@@ -16114,17 +16079,12 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQAh7mBGfI3cSb_CE3FbLiysAT8rWba-iWcvp8rdLuYRl2M",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "FACTURA",
           "nombre": "Factura 001-011-000000494",
           "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCrV_DzKU_GRomECNUzFcpZAXJqoB1bzzZPHSzH8NqEziw?e=FIPNno"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQAh7mBGfI3cSb_CE3FbLiysAT8rWba-iWcvp8rdLuYRl2M"
         }
       ],
       "estados_especiales": []
@@ -16162,17 +16122,12 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQDIIrhVJgvPRKxMjUCjoOabAW2tTs4PZuo20P_3WsQghec",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "FACTURA",
           "nombre": "Factura 001-011-000000494",
           "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCrV_DzKU_GRomECNUzFcpZAXJqoB1bzzZPHSzH8NqEziw?e=FIPNno"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQDIIrhVJgvPRKxMjUCjoOabAW2tTs4PZuo20P_3WsQghec"
         }
       ],
       "estados_especiales": []
@@ -16210,17 +16165,12 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQDljveY2dtiR4r_nwMmFVqVAa5N_ZJcG5FBsQ1Bgn0ctIo",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "FACTURA",
           "nombre": "Factura 001-011-000000494",
           "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCrV_DzKU_GRomECNUzFcpZAXJqoB1bzzZPHSzH8NqEziw?e=FIPNno"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQDljveY2dtiR4r_nwMmFVqVAa5N_ZJcG5FBsQ1Bgn0ctIo"
         }
       ],
       "estados_especiales": []
@@ -16243,7 +16193,7 @@
       "serie": "W1NXLP04S35804B",
       "custodio": "ACOSTA FANNY DEL CARMEN",
       "institucion": "FIAS",
-      "ubicacion": "AREA ADMINISTRATIVA",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -16258,7 +16208,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCzOAqM0DqzS474-tBv1T33AVFEKZR_CN6OAEzWxyiqSEw",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -16266,11 +16216,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCzOAqM0DqzS474-tBv1T33AVFEKZR_CN6OAEzWxyiqSEw"
         }
       ],
       "estados_especiales": []
@@ -16293,7 +16238,7 @@
       "serie": "W1NXLP04S342045",
       "custodio": "ARIAS CALDERON RAQUEL BEATRIZ",
       "institucion": "FIAS",
-      "ubicacion": "GERENCIA DE PLANIFICACIÓN E INNOVACIÓN",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -16308,7 +16253,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQB-wLCYK0tcSr59gVF18At7AWDTj50VSpMomgjCmHSphXQ",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -16316,11 +16261,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQB-wLCYK0tcSr59gVF18At7AWDTj50VSpMomgjCmHSphXQ"
         }
       ],
       "estados_especiales": []
@@ -16343,7 +16283,7 @@
       "serie": "W1NXLP04S387044",
       "custodio": "BRAVO MOGRO JOSE MIGUEL",
       "institucion": "FIAS",
-      "ubicacion": "PISO 8B",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -16358,7 +16298,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQAZIrmhhY-AQoZMM2jHpWJxAcoSQDcGHzGZW13JRNPj3Qk",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -16366,11 +16306,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQAZIrmhhY-AQoZMM2jHpWJxAcoSQDcGHzGZW13JRNPj3Qk"
         }
       ],
       "estados_especiales": []
@@ -16393,7 +16328,7 @@
       "serie": "W1NXLP04S37404D",
       "custodio": "MORALES JARAMILLO DANIEL ALFREDO",
       "institucion": "FIAS",
-      "ubicacion": "DIRECCIÓN EJECUTIVA",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -16408,7 +16343,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQAydQrX4TgLSoEWFAdyVgPGAbK5iZHPH_OCYhSWrrvgyeM",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -16416,11 +16351,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQAydQrX4TgLSoEWFAdyVgPGAbK5iZHPH_OCYhSWrrvgyeM"
         }
       ],
       "estados_especiales": []
@@ -16443,7 +16373,7 @@
       "serie": "W1NXLP04S376049",
       "custodio": "CHAMORRO VARGAS DAVID FERNANDO",
       "institucion": "FIAS",
-      "ubicacion": "AREA ADMINISTRATIVA",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -16458,7 +16388,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCJ0_pNeNjcSLbDz201W7lqAVlsaoBgADWzPevIDtE7MZY",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -16466,11 +16396,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCJ0_pNeNjcSLbDz201W7lqAVlsaoBgADWzPevIDtE7MZY"
         }
       ],
       "estados_especiales": []
@@ -16493,7 +16418,7 @@
       "serie": "W1NXLP04S33904H",
       "custodio": "JARAMILLO RIVERA CAMILA JOHANNA",
       "institucion": "FIAS",
-      "ubicacion": "PISO 8B",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -16508,7 +16433,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBMW8gx_En9QoEUeuJhKU6rAaYXuinie9XAREgi6fSq6Y4",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -16516,11 +16441,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBMW8gx_En9QoEUeuJhKU6rAaYXuinie9XAREgi6fSq6Y4"
         }
       ],
       "estados_especiales": []
@@ -16543,7 +16463,7 @@
       "serie": "W1NXLP04S380048",
       "custodio": "MACÍAS MERA MARÍA PATRICIA",
       "institucion": "FIAS",
-      "ubicacion": "PISO 8B",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -16558,7 +16478,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQACfQurjKtPSYAPuxKGvo8PAfO3v8HBIm90cpS40ascjnA",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -16566,11 +16486,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQACfQurjKtPSYAPuxKGvo8PAfO3v8HBIm90cpS40ascjnA"
         }
       ],
       "estados_especiales": []
@@ -16593,7 +16508,7 @@
       "serie": "W1NXLP04S332044",
       "custodio": "MORALES ALBA EVELYN DENISSE",
       "institucion": "FIAS",
-      "ubicacion": "RECEPCIÓN",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -16608,7 +16523,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQA1YKWBrBYjT5MCgxJQF_ZlARHLG3UOzg6kCsjCZU2eQZM",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -16616,11 +16531,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQA1YKWBrBYjT5MCgxJQF_ZlARHLG3UOzg6kCsjCZU2eQZM"
         }
       ],
       "estados_especiales": []
@@ -16643,7 +16553,7 @@
       "serie": "W1NXLP04S396047",
       "custodio": "MURILLO GUERRON ANA LUCIA",
       "institucion": "FIAS",
-      "ubicacion": "GERENCIA DE PROYECTOS Y PROGRAMAS",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -16658,7 +16568,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBjvjCrg_uKQ7tAzntXmAxLAYVSrhVjDx_NA9UwxJaAoxE",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -16666,11 +16576,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBjvjCrg_uKQ7tAzntXmAxLAYVSrhVjDx_NA9UwxJaAoxE"
         }
       ],
       "estados_especiales": []
@@ -16693,7 +16598,7 @@
       "serie": "W1NXLP04S33304C",
       "custodio": "NUÑEZ LARA CYNTHIA ALEXANDRA",
       "institucion": "FIAS",
-      "ubicacion": "AREA ADMINISTRATIVA",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -16708,7 +16613,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCt5MM6SRRHSKh0SK1Pp5w1AcGNL8WNmTRrFgvZ9hk6Eik",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -16716,11 +16621,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCt5MM6SRRHSKh0SK1Pp5w1AcGNL8WNmTRrFgvZ9hk6Eik"
         }
       ],
       "estados_especiales": []
@@ -16743,7 +16643,7 @@
       "serie": "W1NXLP04S391043",
       "custodio": "PAREDES SÁNCHEZ NELSON PATRICIO",
       "institucion": "FIAS",
-      "ubicacion": "GERENCIA ADMINISTRATIVA FINANCIERA",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -16758,7 +16658,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCOckBwLWM7RqykYoD6UlwMAYoSkXd31REf3IUSMtAp630",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -16766,11 +16666,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCOckBwLWM7RqykYoD6UlwMAYoSkXd31REf3IUSMtAp630"
         }
       ],
       "estados_especiales": []
@@ -16793,7 +16688,7 @@
       "serie": "W1NXLP04S390047",
       "custodio": "PERALTA ENCALADA CRISTIAN ALEJANDRO",
       "institucion": "FIAS",
-      "ubicacion": "PISO 8B",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -16808,7 +16703,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQD_Kv8qq1ciSZ5Y2ZZgVge7AeeZJ11TZa4pB11A5wGFQ74",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -16816,11 +16711,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQD_Kv8qq1ciSZ5Y2ZZgVge7AeeZJ11TZa4pB11A5wGFQ74"
         }
       ],
       "estados_especiales": []
@@ -16843,7 +16733,7 @@
       "serie": "W1NXLP04S34904D",
       "custodio": "RAMOS CORTEZ SHIRLEY PAOLA",
       "institucion": "FIAS",
-      "ubicacion": "CONTABILIDAD",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -16858,7 +16748,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQC6AZppwg9ZQKLVe63for1fAeWt9un4e41zG10TC-0Z6nM",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -16866,11 +16756,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQC6AZppwg9ZQKLVe63for1fAeWt9un4e41zG10TC-0Z6nM"
         }
       ],
       "estados_especiales": []
@@ -16893,7 +16778,7 @@
       "serie": "W1NXLP04S384049",
       "custodio": "RECALDE PACHECO MONICA CRISTINA",
       "institucion": "FIAS",
-      "ubicacion": "DIRECCIÓN ADMINISTRATIVA Y TH",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -16908,7 +16793,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBYVosKhMw4RJHeS4Dd-KwvAX36wGkGxXetWkGNs3cTyYs",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -16916,11 +16801,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBYVosKhMw4RJHeS4Dd-KwvAX36wGkGxXetWkGNs3cTyYs"
         }
       ],
       "estados_especiales": []
@@ -16943,7 +16823,7 @@
       "serie": "W1NXLP04S338043",
       "custodio": "REIMUNDO GUALOTUÑA JUAN ANDRÉS",
       "institucion": "FIAS",
-      "ubicacion": "AREA ADMINISTRATIVA",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -16958,7 +16838,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCs4yKRKrs9T7G-RMCzw2AjAW243kvYK8b4mT5fT5XNl6M",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -16966,11 +16846,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCs4yKRKrs9T7G-RMCzw2AjAW243kvYK8b4mT5fT5XNl6M"
         }
       ],
       "estados_especiales": []
@@ -16993,7 +16868,7 @@
       "serie": "W1NXLP04S370048",
       "custodio": "TOBAR CAZARES AYDA MONSERRATH",
       "institucion": "FIAS",
-      "ubicacion": "CONTABILIDAD",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17008,7 +16883,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQD4AxD6HVVTT4pVHNDEbp2YAdCTVGuPVVVSUfzuhrg1xZQ",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17016,11 +16891,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQD4AxD6HVVTT4pVHNDEbp2YAdCTVGuPVVVSUfzuhrg1xZQ"
         }
       ],
       "estados_especiales": []
@@ -17043,7 +16913,7 @@
       "serie": "W1NXLP04S373045",
       "custodio": "VASQUEZ VILLARREAL SILVIA CAROLINA",
       "institucion": "FIAS",
-      "ubicacion": "JURIDICO",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17058,7 +16928,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQDkqHDJp9eAQp4sST9lWdbXAXj-krW0KBPEaT-GFO8WTPI",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17066,11 +16936,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQDkqHDJp9eAQp4sST9lWdbXAXj-krW0KBPEaT-GFO8WTPI"
         }
       ],
       "estados_especiales": []
@@ -17093,7 +16958,7 @@
       "serie": "W1NXLP04S37704A",
       "custodio": "VILLACIS ORTEGA SASKYA DAYANA",
       "institucion": "FIAS",
-      "ubicacion": "JURIDICO",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17108,7 +16973,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQAXqH5uy_InTpDAXYIEVXavAS0JwYW77SXrmj0Oefc_x8c",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17116,11 +16981,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQAXqH5uy_InTpDAXYIEVXavAS0JwYW77SXrmj0Oefc_x8c"
         }
       ],
       "estados_especiales": []
@@ -17143,7 +17003,7 @@
       "serie": "W1NXLP04S350048",
       "custodio": "DISPONIBLE",
       "institucion": "FIAS",
-      "ubicacion": "DATA CENTER",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17158,7 +17018,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBZdpaz2un8TLBLV3XrdUqVAR2Dqu4doySPyHGK3Ng9H8M",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17166,11 +17026,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBZdpaz2un8TLBLV3XrdUqVAR2Dqu4doySPyHGK3Ng9H8M"
         }
       ],
       "estados_especiales": []
@@ -17193,7 +17048,7 @@
       "serie": "W1NXLP04S35404A",
       "custodio": "DISPONIBLE",
       "institucion": "FIAS",
-      "ubicacion": "DATA CENTER",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17208,7 +17063,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQB5l_6lbLtqTrRND1FE0hJKAf0VXqPykOv6js-VN4KTX9k",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17216,11 +17071,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQB5l_6lbLtqTrRND1FE0hJKAf0VXqPykOv6js-VN4KTX9k"
         }
       ],
       "estados_especiales": []
@@ -17243,7 +17093,7 @@
       "serie": "E70260173006390426",
       "custodio": "ACOSTA FANNY DEL CARMEN",
       "institucion": "FIAS",
-      "ubicacion": "AREA ADMINISTRATIVA",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17258,7 +17108,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBYryzDgW79ToqgA4_IY6Y9AWKdRjUmuqYFZwZ08fNSA2Y",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17266,11 +17116,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBYryzDgW79ToqgA4_IY6Y9AWKdRjUmuqYFZwZ08fNSA2Y"
         }
       ],
       "estados_especiales": []
@@ -17293,7 +17138,7 @@
       "serie": "E70260173006360426",
       "custodio": "GARZÓN MÁRQUEZ FERNANDO GABRIEL",
       "institucion": "FIAS",
-      "ubicacion": "AREA ADMINISTRATIVA",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17308,7 +17153,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBj2_6EWglJRYLKcCFrML9oAUntTK7GSIsE6q9zl2belkk",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17316,11 +17161,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBj2_6EWglJRYLKcCFrML9oAUntTK7GSIsE6q9zl2belkk"
         }
       ],
       "estados_especiales": []
@@ -17343,7 +17183,7 @@
       "serie": "E70260185004620426",
       "custodio": "BENITEZ CASTILLO MARCO VINICIO",
       "institucion": "FIAS",
-      "ubicacion": "AREA ADMINISTRATIVA",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17358,7 +17198,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCWRt50p0RNRL9y9TYIn9T6AUx4lOAygHDcO2Vi0P6_omQ",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17366,11 +17206,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCWRt50p0RNRL9y9TYIn9T6AUx4lOAygHDcO2Vi0P6_omQ"
         }
       ],
       "estados_especiales": []
@@ -17393,7 +17228,7 @@
       "serie": "E70260228001090526",
       "custodio": "CHAMORRO VARGAS DAVID FERNANDO",
       "institucion": "FIAS",
-      "ubicacion": "AREA ADMINISTRATIVA",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17408,7 +17243,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQC4BFXDcT_2SrGq-EAwRoU1ATckxDInJwjbyIsQZTomUso",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17416,11 +17251,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQC4BFXDcT_2SrGq-EAwRoU1ATckxDInJwjbyIsQZTomUso"
         }
       ],
       "estados_especiales": []
@@ -17443,7 +17273,7 @@
       "serie": "E70260185005390426",
       "custodio": "LIMONGI CASTELO PAÚL ALEJANDRO",
       "institucion": "FIAS",
-      "ubicacion": "CONTABILIDAD",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17458,7 +17288,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQA7VFuOdJ8_SKHW3m4WnCiUAXybkdMR8tIf9tsZ-cS35_M",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17466,11 +17296,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQA7VFuOdJ8_SKHW3m4WnCiUAXybkdMR8tIf9tsZ-cS35_M"
         }
       ],
       "estados_especiales": []
@@ -17493,7 +17318,7 @@
       "serie": "E70260185005410426",
       "custodio": "MACÍAS MERA MARÍA PATRICIA",
       "institucion": "FIAS",
-      "ubicacion": "PISO 8B",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17508,7 +17333,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCQ0xqQzMz1T5vMomfgMGpMAS9NnFnxLIz8z7v8CQ8XluA",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17516,11 +17341,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCQ0xqQzMz1T5vMomfgMGpMAS9NnFnxLIz8z7v8CQ8XluA"
         }
       ],
       "estados_especiales": []
@@ -17543,7 +17363,7 @@
       "serie": "E70260173008920426",
       "custodio": "MURILLO GUERRON ANA LUCIA",
       "institucion": "FIAS",
-      "ubicacion": "GERENCIA DE PROYECTOS Y PROGRAMAS",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17558,7 +17378,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQDSXDSLGiYrTZi4Fpb046_mAThOoYhNsCnGOrdnMgKeF-c",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17566,11 +17386,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQDSXDSLGiYrTZi4Fpb046_mAThOoYhNsCnGOrdnMgKeF-c"
         }
       ],
       "estados_especiales": []
@@ -17593,7 +17408,7 @@
       "serie": "E70260173006300426",
       "custodio": "NUÑEZ LARA CYNTHIA ALEXANDRA",
       "institucion": "FIAS",
-      "ubicacion": "AREA ADMINISTRATIVA",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17608,7 +17423,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBeCKWaNPgrQKqwyDQZy0L-AY98vEw67kztVDXkmzGdbZM",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17616,11 +17431,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBeCKWaNPgrQKqwyDQZy0L-AY98vEw67kztVDXkmzGdbZM"
         }
       ],
       "estados_especiales": []
@@ -17643,7 +17453,7 @@
       "serie": "E70260173008900426",
       "custodio": "PERALTA ENCALADA CRISTIAN ALEJANDRO",
       "institucion": "FIAS",
-      "ubicacion": "PISO 8B",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17658,7 +17468,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQDH9hx6cXG_Sa57YE3hlQDqAQlUZZBr89hqmC_hppDgIuc",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17666,11 +17476,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQDH9hx6cXG_Sa57YE3hlQDqAQlUZZBr89hqmC_hppDgIuc"
         }
       ],
       "estados_especiales": []
@@ -17693,7 +17498,7 @@
       "serie": "E70260185001810426",
       "custodio": "RAMOS CORTEZ SHIRLEY PAOLA",
       "institucion": "FIAS",
-      "ubicacion": "CONTABILIDAD",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17708,7 +17513,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCquLyDqzDOQZ703eLB9U1xAdXTwz-7N2NvQ1WWKq2sYr8",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17716,11 +17521,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCquLyDqzDOQZ703eLB9U1xAdXTwz-7N2NvQ1WWKq2sYr8"
         }
       ],
       "estados_especiales": []
@@ -17743,7 +17543,7 @@
       "serie": "E70260173004060426",
       "custodio": "RECALDE PACHECO MONICA CRISTINA",
       "institucion": "FIAS",
-      "ubicacion": "DIRECCIÓN ADMINISTRATIVA Y TH",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17758,7 +17558,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCVtvhl8laTTqNpLe2ulk7BAaz8DgSM7VL4BhzWsQgFNb0",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17766,11 +17566,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCVtvhl8laTTqNpLe2ulk7BAaz8DgSM7VL4BhzWsQgFNb0"
         }
       ],
       "estados_especiales": []
@@ -17793,7 +17588,7 @@
       "serie": "E70260173006180426",
       "custodio": "REIMUNDO GUALOTUÑA JUAN ANDRÉS",
       "institucion": "FIAS",
-      "ubicacion": "AREA ADMINISTRATIVA",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17808,7 +17603,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCpR5ZEQGcpR4W2lHNC9Vm3Aexm60MUmbtt9KTdvWnPtg4",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17816,11 +17611,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQCpR5ZEQGcpR4W2lHNC9Vm3Aexm60MUmbtt9KTdvWnPtg4"
         }
       ],
       "estados_especiales": []
@@ -17843,7 +17633,7 @@
       "serie": "E70260173008850426",
       "custodio": "TOBAR CAZARES AYDA MONSERRATH",
       "institucion": "FIAS",
-      "ubicacion": "CONTABILIDAD",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17858,7 +17648,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQAbIitYFyJ2RK7tNavg-BQfAdk-ImcplW3auZcTRYkVYys",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17866,11 +17656,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQAbIitYFyJ2RK7tNavg-BQfAdk-ImcplW3auZcTRYkVYys"
         }
       ],
       "estados_especiales": []
@@ -17893,7 +17678,7 @@
       "serie": "E70260173006240426",
       "custodio": "VACA GARNICA INÉS FERNANDA",
       "institucion": "FIAS",
-      "ubicacion": "CONTABILIDAD",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17908,7 +17693,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQC0CixNHO0URLjzevhC_8rEAbFkrIDGwEV4D--ZbVdKK50",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17916,11 +17701,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQC0CixNHO0URLjzevhC_8rEAbFkrIDGwEV4D--ZbVdKK50"
         }
       ],
       "estados_especiales": []
@@ -17943,7 +17723,7 @@
       "serie": "E70260173005590426",
       "custodio": "VILLACIS ORTEGA SASKYA DAYANA",
       "institucion": "FIAS",
-      "ubicacion": "JURIDICO",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -17958,7 +17738,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQALJn-5yGhNR4AGf3bLCnsnAQ9Q-e6CbgAN37ThWx0N5RA",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -17966,11 +17746,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQALJn-5yGhNR4AGf3bLCnsnAQ9Q-e6CbgAN37ThWx0N5RA"
         }
       ],
       "estados_especiales": []
@@ -17989,11 +17764,11 @@
       "numero_factura": null,
       "valor_adquisicion": 305.88849999999996,
       "marca": "ZEBRA",
-      "modelo": "Z230T",
-      "serie": "D5N261000013",
+      "modelo": "Z220TD",
+      "serie": null,
       "custodio": "CRUZ GALLEGOS JAIR ALEXANDER",
       "institucion": "FIAS",
-      "ubicacion": "AREA ADMINISTRATIVA",
+      "ubicacion": null,
       "asegurado": "SI",
       "inicio_seguro": "2026-09-21",
       "fin_seguro": "2027-01-01",
@@ -18008,7 +17783,7 @@
       "fecha_baja": null,
       "motivo_baja": null,
       "observaciones": "NUEVO",
-      "foto_url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBxHZGHtoRhQYdFat1AdwThAfC9YtiMAFp0uDEKD_unohI",
+      "foto_url": null,
       "documentos": [
         {
           "tipo": "POLIZA",
@@ -18016,11 +17791,6 @@
           "url": "https://fiasec-my.sharepoint.com/personal/jcruzg_fias_org_ec/Documents/FIAS/BIENES%20FIAS/POLIZAS%202026/FIAS%20INSTITUCIONAL/201380.pdf",
           "detalle": "Cobertura de muebles, enseres, equipos de oficina y equipos electrónicos del FIAS.",
           "vigencia": "01/01/2026 al 01/01/2027"
-        },
-        {
-          "tipo": "FOTOGRAFIA",
-          "nombre": "Fotografía del bien",
-          "url": "https://fiasec-my.sharepoint.com/:i:/g/personal/jcruzg_fias_org_ec/IQBxHZGHtoRhQYdFat1AdwThAfC9YtiMAFp0uDEKD_unohI"
         }
       ],
       "estados_especiales": []

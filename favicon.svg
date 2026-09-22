@@ -1,1 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="16" fill="#113b35"/><text x="32" y="43" text-anchor="middle" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="white">F</text></svg>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="71.000000pt" height="71.000000pt" viewBox="0 0 71.000000 71.000000"
+ preserveAspectRatio="xMidYMid meet">
+<metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
+<g transform="translate(0.000000,71.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M0 355 l0 -355 355 0 355 0 0 175 c0 134 -3 175 -13 175 -6 0 -83
+-74 -169 -164 l-156 -164 -136 138 c-75 76 -136 142 -136 146 1 5 61 72 135
+149 l134 140 118 -117 c93 -93 124 -118 146 -118 15 0 27 3 27 8 0 4 -64 71
+-143 150 l-143 142 -176 -177 c-97 -98 -179 -175 -182 -172 -3 2 77 87 176
+187 l182 182 158 -158 c87 -86 163 -158 168 -160 6 -2 10 63 10 172 l0 176
+-355 0 -355 0 0 -355z"/>
+<path d="M236 440 l-128 -131 127 -134 c70 -74 131 -135 134 -135 4 0 74 70
+155 155 l148 155 -39 0 c-36 1 -45 -6 -150 -117 l-112 -118 -98 98 -98 97 97
+97 98 98 73 -73 c54 -54 79 -72 100 -72 15 0 27 3 27 8 0 8 -192 202 -201 202
+-3 0 -63 -59 -133 -130z"/>
+<path d="M282 397 c-45 -45 -81 -87 -81 -92 1 -6 39 -46 86 -90 l84 -79 107
+107 107 107 -40 0 c-37 0 -47 6 -105 65 -35 36 -67 65 -70 65 -3 0 -42 -37
+-88 -83z"/>
+</g>
+</svg>
