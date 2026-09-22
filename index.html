@@ -16,30 +16,27 @@
       <img
         class="brand-logo"
         src="https://fias.org.ec/wp-content/uploads/2021/11/Logo_FIAS_web.png"
-        alt="Logo oficial FIAS"
+        alt="FIAS - Fondo de Inversión Ambiental Sostenible"
       >
-      <span class="brand-divider" aria-hidden="true"></span>
       <span class="brand-copy">
-        <span>Consulta Institucional</span>
-        <strong>Gestión de Bienes</strong>
+        <strong>Consulta de Bienes</strong>
+        <span>Gestión patrimonial</span>
       </span>
     </a>
 
     <div class="top-actions">
-      <span id="freshness" class="freshness" hidden></span>
-      <a class="portal-link" href="https://jaircruz1304.github.io/FIAS/Portal-Digital.html#herramientas" target="_blank" rel="noopener noreferrer">Portal FIAS</a>
+      <a class="portal-link" href="https://jaircruz1304.github.io/FIAS/Portal-Digital.html#herramientas" target="_blank" rel="noopener noreferrer">Portal Digital</a>
       <button id="printBtn" class="btn btn-quiet" type="button" hidden>Imprimir ficha</button>
     </div>
   </div>
 </header>
 
 <main class="shell">
-  <section class="hero">
-    <div class="hero-overlay" aria-hidden="true"></div>
-    <div class="hero-copy">
-      <p class="hero-badge">PLATAFORMA DE CONSULTA PATRIMONIAL</p>
-      <h1>Ficha digital del bien</h1>
-      <p>Consulta rápida, centralizada y actualizada del inventario institucional del FIAS mediante código QR o código del activo.</p>
+  <section class="lookup-panel" aria-labelledby="lookupTitle">
+    <div class="lookup-copy">
+      <p class="eyebrow">INVENTARIO INSTITUCIONAL</p>
+      <h1 id="lookupTitle">Consulta de bienes</h1>
+      <p>Busque por código, descripción, custodio, ubicación, serie, marca o modelo.</p>
     </div>
 
     <form id="searchForm" class="search" autocomplete="off">
@@ -48,9 +45,13 @@
         <input id="searchInput" type="search" placeholder="Ej. FIAS.26.03.083" aria-autocomplete="list">
         <button class="btn" type="submit">Consultar</button>
       </div>
-      <p class="search-help">Puede buscar por código, descripción, custodio, ubicación, serie, marca o modelo.</p>
       <div id="suggestions" class="suggestions" hidden></div>
     </form>
+
+    <div class="lookup-meta">
+      <span id="freshness" class="freshness" hidden></span>
+      <span class="source-note">Fuente: inventario institucional sincronizado</span>
+    </div>
   </section>
 
   <section id="loading" class="state">Cargando inventario…</section>
@@ -67,8 +68,14 @@
     <section class="asset-hero panel">
       <div id="photo" class="photo" aria-label="Fotografía del bien">
         <div class="photo-placeholder">
-          <img src="https://fias.org.ec/wp-content/uploads/2021/11/Logo_FIAS_web.png" alt="Logo oficial FIAS">
-          <small>Fotografía del bien no disponible</small>
+          <div class="photo-icon" aria-hidden="true">
+            <svg viewBox="0 0 64 64" role="img" aria-hidden="true">
+              <path d="M18 20h8l4-6h8l4 6h8a6 6 0 0 1 6 6v22a6 6 0 0 1-6 6H14a6 6 0 0 1-6-6V26a6 6 0 0 1 6-6h4Z"/>
+              <circle cx="32" cy="37" r="10"/>
+            </svg>
+          </div>
+          <strong>Sin fotografía registrada</strong>
+          <small>La ficha mantiene disponible el resto de la información del bien.</small>
         </div>
       </div>
 
@@ -102,7 +109,7 @@
     <section id="docsPanel" class="panel documents" hidden>
       <div class="section-title">
         <div><p class="eyebrow">RESPALDOS</p><h3>Documentación disponible</h3></div>
-        <p>Solo se muestran documentos con enlace registrado.</p>
+        <p>Se muestran únicamente documentos con enlace registrado.</p>
       </div>
       <div id="documents" class="document-grid"></div>
     </section>
@@ -111,11 +118,15 @@
 
 <footer class="footer">
   <div class="footer-inner">
-    <div class="footer-brand">
-      <img src="https://fias.org.ec/wp-content/uploads/2021/11/Logo_FIAS_web.png" alt="FIAS">
-      <span>Fondo de Inversión Ambiental Sostenible</span>
-    </div>
-    <span>Fuente oficial: inventario institucional sincronizado.</span>
+    <span class="footer-system"><strong>FIAS</strong> · Consulta institucional de bienes</span>
+    <span class="footer-source">Actualización automática desde la fuente oficial.</span>
+    <span class="developer-credit">
+      Desarrollado por:
+      <a href="https://www.linkedin.com/in/jair-cruz-gallegos-65998776" target="_blank" rel="noopener noreferrer" aria-label="Perfil de LinkedIn de Jair Cruz">
+        <strong>Jair Cruz</strong>
+        <span class="linkedin-icon" aria-hidden="true">in</span>
+      </a>
+    </span>
   </div>
 </footer>
 

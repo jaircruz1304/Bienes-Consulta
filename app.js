@@ -50,7 +50,7 @@
 
   function renderPhoto(a){
     const box=$('photo'), link=$('photoLink');
-    box.innerHTML='<div class="photo-placeholder"><img src="https://fias.org.ec/wp-content/uploads/2021/11/Logo_FIAS_web.png" alt="Logo oficial FIAS"><small>Fotografía del bien no disponible</small></div>';
+    box.innerHTML='<div class="photo-placeholder"><div class="photo-icon" aria-hidden="true"><svg viewBox="0 0 64 64"><path d="M18 20h8l4-6h8l4 6h8a6 6 0 0 1 6 6v22a6 6 0 0 1-6 6H14a6 6 0 0 1-6-6V26a6 6 0 0 1 6-6h4Z"/><circle cx="32" cy="37" r="10"/></svg></div><strong>Sin fotografía registrada</strong><small>La ficha mantiene disponible el resto de la información del bien.</small></div>';
     const url=a.foto_url || (a.documentos||[]).find(d=>norm(d.tipo)==='FOTOGRAFIA')?.url;
     show(link,!!isUrl(url)); if(isUrl(url)) link.href=url;
     if(!isUrl(url)) return;
