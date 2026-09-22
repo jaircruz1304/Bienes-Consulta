@@ -1,9 +1,9 @@
 {
   "meta": {
     "schemaVersion": 4,
-    "generatedAt": "2026-09-22T18:42:08.734376Z",
-    "sourceLastModified": "2026-09-22T18:41:29Z",
-    "sourceETag": "\"{1A1CDC3E-FDB8-41B0-8591-D30A37D5C5D2},2769\"",
+    "generatedAt": "2026-09-22T19:05:25.777121Z",
+    "sourceLastModified": "2026-09-22T19:04:52Z",
+    "sourceETag": "\"{1A1CDC3E-FDB8-41B0-8591-D30A37D5C5D2},2777\"",
     "sourceName": "INVENTARIO FIAS INSTITUCIONAL VFD.xlsx",
     "assetCount": 439,
     "mode": "synchronized-json-local-media",
@@ -16538,7 +16538,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16563,6 +16563,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.083.webp",
       "foto_version": "abbb2409d9cd55",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -16589,7 +16594,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16614,6 +16619,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.084.webp",
       "foto_version": "104a9c82c882ea",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -16640,7 +16650,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16665,6 +16675,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.085.webp",
       "foto_version": "a26efa98daba19",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -16691,7 +16706,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16716,6 +16731,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.086.webp",
       "foto_version": "2aa3b2dcec4dbd",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -16742,7 +16762,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16767,6 +16787,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.087.webp",
       "foto_version": "9703e3ce6272d2",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -16793,7 +16818,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16818,6 +16843,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.088.webp",
       "foto_version": "3d90065f004d44",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -16844,7 +16874,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16869,6 +16899,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.089.webp",
       "foto_version": "d90ee1001fa51e",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -16895,7 +16930,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16920,6 +16955,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.090.webp",
       "foto_version": "cf1a61eaddb4b2",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -16946,7 +16986,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16971,6 +17011,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.091.webp",
       "foto_version": "3e6916ec3b6934",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -16997,7 +17042,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17022,6 +17067,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.092.webp",
       "foto_version": "7070b6e4f2ece9",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17048,7 +17098,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17073,6 +17123,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.093.webp",
       "foto_version": "92e766121ceb7a",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17099,7 +17154,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17124,6 +17179,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.094.webp",
       "foto_version": "54e99a178aa8dc",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17150,7 +17210,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17175,6 +17235,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.095.webp",
       "foto_version": "5cbbaa9b95bbb4",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17201,7 +17266,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17226,6 +17291,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.096.webp",
       "foto_version": "97764725db64fb",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17252,7 +17322,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17277,6 +17347,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.097.webp",
       "foto_version": "eb2f3388d184c6",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17303,7 +17378,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17328,6 +17403,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.098.webp",
       "foto_version": "2f7d33b47ed5de",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17354,7 +17434,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17379,6 +17459,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.099.webp",
       "foto_version": "ec35b0601c3b35",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17405,7 +17490,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17430,6 +17515,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.100.webp",
       "foto_version": "cb7d83869f6d8e",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17456,7 +17546,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17481,6 +17571,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.101.webp",
       "foto_version": "638fd9f300bbb7",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17507,7 +17602,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17532,6 +17627,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.102.webp",
       "foto_version": "593920569b9164",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17558,7 +17658,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -17583,6 +17683,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.103.webp",
       "foto_version": "440e96f9ab82b0",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17609,7 +17714,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -17634,6 +17739,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.104.webp",
       "foto_version": "1087f0d51afdb4",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17660,7 +17770,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -17685,6 +17795,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.105.webp",
       "foto_version": "901f6ec9cbafb9",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17711,7 +17826,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -17736,6 +17851,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.106.webp",
       "foto_version": "52bba90b294c9f",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17762,7 +17882,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -17787,6 +17907,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.107.webp",
       "foto_version": "9721619c23aff5",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17813,7 +17938,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -17838,6 +17963,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.108.webp",
       "foto_version": "144ca7a78fdf93",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17864,7 +17994,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -17889,6 +18019,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.109.webp",
       "foto_version": "af16546f438c36",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17915,7 +18050,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -17940,6 +18075,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.110.webp",
       "foto_version": "d1d095fc9fbe5f",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -17966,7 +18106,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -17991,6 +18131,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.111.webp",
       "foto_version": "4834cfcfe0de05",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -18017,7 +18162,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -18042,6 +18187,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.112.webp",
       "foto_version": "b9354c2d75766e",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -18068,7 +18218,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -18093,6 +18243,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.113.webp",
       "foto_version": "a822850ca59fa2",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -18119,7 +18274,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -18144,6 +18299,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.114.webp",
       "foto_version": "46cfedc1e73b9a",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -18170,7 +18330,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -18195,6 +18355,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.115.webp",
       "foto_version": "9dda69468df43e",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -18221,7 +18386,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -18246,6 +18411,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.116.webp",
       "foto_version": "af32d2a8710c19",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -18272,7 +18442,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -18297,6 +18467,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.117.webp",
       "foto_version": "c6ba0f51efe406",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
@@ -18323,7 +18498,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": null,
+      "numero_factura": "Pendiente",
       "valor_adquisicion": 305.88849999999996,
       "marca": "ZEBRA",
       "modelo": "Z230T",
@@ -18348,6 +18523,11 @@
       "foto_url": "./assets/bienes/FIAS.26.03.118.webp",
       "foto_version": "df7824a285dc40",
       "documentos": [
+        {
+          "tipo": "FACTURA",
+          "nombre": "Factura Pendiente",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+        },
         {
           "tipo": "POLIZA",
           "nombre": "Póliza Multirriesgo No. 201380",
