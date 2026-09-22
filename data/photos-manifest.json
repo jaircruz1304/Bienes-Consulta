@@ -3799,11 +3799,11 @@
       "format": "webp",
       "height": 1600,
       "localPath": "./assets/bienes/FIAS.26.03.118.webp",
-      "sourceETag": "\"{87911D71-84B6-4161-8745-6ADD407704E1},1\"",
+      "sourceETag": "\"{87911D71-84B6-4161-8745-6ADD407704E1},2\"",
       "sourceName": "FIAS.26.03.118.jpeg",
       "status": "ok",
       "urlHash": "2a1be120495bcd3530d815a908881426d9d4fac218408784f2a04413dc38ab64",
-      "version": "df7824a285dc40",
+      "version": "66c982c1a2b07c",
       "width": 1200
     },
     "MOE001REM.1": {

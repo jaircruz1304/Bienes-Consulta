@@ -1,9 +1,9 @@
 {
   "meta": {
     "schemaVersion": 4,
-    "generatedAt": "2026-09-22T19:05:25.777121Z",
-    "sourceLastModified": "2026-09-22T19:04:52Z",
-    "sourceETag": "\"{1A1CDC3E-FDB8-41B0-8591-D30A37D5C5D2},2777\"",
+    "generatedAt": "2026-09-22T20:04:38.767273Z",
+    "sourceLastModified": "2026-09-22T19:29:50Z",
+    "sourceETag": "\"{1A1CDC3E-FDB8-41B0-8591-D30A37D5C5D2},2783\"",
     "sourceName": "INVENTARIO FIAS INSTITUCIONAL VFD.xlsx",
     "assetCount": 439,
     "mode": "synchronized-json-local-media",
@@ -16530,7 +16530,7 @@
     {
       "codigo": "FIAS.26.03.083",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -16586,7 +16586,7 @@
     {
       "codigo": "FIAS.26.03.084",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -16642,7 +16642,7 @@
     {
       "codigo": "FIAS.26.03.085",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -16698,7 +16698,7 @@
     {
       "codigo": "FIAS.26.03.086",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -16754,7 +16754,7 @@
     {
       "codigo": "FIAS.26.03.087",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -16810,7 +16810,7 @@
     {
       "codigo": "FIAS.26.03.088",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -16866,7 +16866,7 @@
     {
       "codigo": "FIAS.26.03.089",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -16922,7 +16922,7 @@
     {
       "codigo": "FIAS.26.03.090",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -16978,7 +16978,7 @@
     {
       "codigo": "FIAS.26.03.091",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -17034,7 +17034,7 @@
     {
       "codigo": "FIAS.26.03.092",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -17090,7 +17090,7 @@
     {
       "codigo": "FIAS.26.03.093",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -17146,7 +17146,7 @@
     {
       "codigo": "FIAS.26.03.094",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -17202,7 +17202,7 @@
     {
       "codigo": "FIAS.26.03.095",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -17258,7 +17258,7 @@
     {
       "codigo": "FIAS.26.03.096",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -17314,7 +17314,7 @@
     {
       "codigo": "FIAS.26.03.097",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -17370,7 +17370,7 @@
     {
       "codigo": "FIAS.26.03.098",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -17426,7 +17426,7 @@
     {
       "codigo": "FIAS.26.03.099",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -17482,7 +17482,7 @@
     {
       "codigo": "FIAS.26.03.100",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -17538,7 +17538,7 @@
     {
       "codigo": "FIAS.26.03.101",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -17594,7 +17594,7 @@
     {
       "codigo": "FIAS.26.03.102",
       "descripcion": "COMPUTADOR PORTATIL",
-      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS",
+      "descripcion_adicional": "Laptop Asus ExpertBook P3-Memoria Procesador: AMD Ryzen™ Al 7 350\nRAM: 16GB DDR5\nDisco Sólido: mínimo 1TB\nPantalla: 16 pulgadas\nTeclado: Numérico y en español\nSistema Operativo: Windows 11 Profesional de \n64 biTS + MALETA",
       "cantidad": 1,
       "tipo_bien": "EQUIPOS DE COMPUTO",
       "clasificacion": "ACTIVO FIJO",
@@ -18521,7 +18521,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.118.webp",
-      "foto_version": "df7824a285dc40",
+      "foto_version": "66c982c1a2b07c",
       "documentos": [
         {
           "tipo": "FACTURA",
