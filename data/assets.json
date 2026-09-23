@@ -1,7 +1,7 @@
 {
   "meta": {
     "schemaVersion": 4,
-    "generatedAt": "2026-09-22T23:51:51.990387Z",
+    "generatedAt": "2026-09-23T13:46:51.367183Z",
     "sourceLastModified": "2026-09-22T22:01:31Z",
     "sourceETag": "\"{1A1CDC3E-FDB8-41B0-8591-D30A37D5C5D2},2794\"",
     "sourceName": "INVENTARIO FIAS INSTITUCIONAL VFD.xlsx",
@@ -16043,7 +16043,7 @@
       "motivo_baja": null,
       "observaciones": "EN BUEN ESTADO",
       "foto_url": "./assets/bienes/FIAS.26.03.073.webp",
-      "foto_version": "fcd246a58c0423",
+      "foto_version": "d597d9c9b59c20",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16099,7 +16099,7 @@
       "motivo_baja": null,
       "observaciones": "EN BUEN ESTADO",
       "foto_url": "./assets/bienes/FIAS.26.03.074.webp",
-      "foto_version": "026a0b68d170fa",
+      "foto_version": "f5acdeff0d8bf5",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16155,7 +16155,7 @@
       "motivo_baja": null,
       "observaciones": "EN BUEN ESTADO",
       "foto_url": "./assets/bienes/FIAS.26.03.075.webp",
-      "foto_version": "7f1e1a8bc3e390",
+      "foto_version": "0254105a5af1f7",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16211,7 +16211,7 @@
       "motivo_baja": null,
       "observaciones": "EN BUEN ESTADO",
       "foto_url": "./assets/bienes/FIAS.26.03.076.webp",
-      "foto_version": "0a46d2746af613",
+      "foto_version": "55f82351b93528",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16267,7 +16267,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.077.webp",
-      "foto_version": "9e304e2252f170",
+      "foto_version": "2d7a1d400e24a6",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16316,7 +16316,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.078.webp",
-      "foto_version": "cf24566fb98d47",
+      "foto_version": "843e9893bab727",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16365,7 +16365,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.079.webp",
-      "foto_version": "c019808abb7a4c",
+      "foto_version": "427be3aef6654b",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16414,7 +16414,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.080.webp",
-      "foto_version": "0465aa856bf611",
+      "foto_version": "c8e26cb173cd3f",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16463,7 +16463,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.081.webp",
-      "foto_version": "674b134ab0a3d8",
+      "foto_version": "e469b533c5752c",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16512,7 +16512,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.082.webp",
-      "foto_version": "54cc83f333c707",
+      "foto_version": "2e54d4c4d98824",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16561,7 +16561,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.083.webp",
-      "foto_version": "abbb2409d9cd55",
+      "foto_version": "36240ec9243774",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16617,7 +16617,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.084.webp",
-      "foto_version": "104a9c82c882ea",
+      "foto_version": "0c2a5a818a8425",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16673,7 +16673,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.085.webp",
-      "foto_version": "a26efa98daba19",
+      "foto_version": "c0e98f6bf4d5dd",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16729,7 +16729,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.086.webp",
-      "foto_version": "2aa3b2dcec4dbd",
+      "foto_version": "080e07244942b1",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16785,7 +16785,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.087.webp",
-      "foto_version": "9703e3ce6272d2",
+      "foto_version": "148120dbec4948",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16841,7 +16841,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.088.webp",
-      "foto_version": "3d90065f004d44",
+      "foto_version": "dd4042a3bba8fb",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16897,7 +16897,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.089.webp",
-      "foto_version": "d90ee1001fa51e",
+      "foto_version": "1502fdf0407689",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -16953,7 +16953,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.090.webp",
-      "foto_version": "cf1a61eaddb4b2",
+      "foto_version": "64329ca0ef9021",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17009,7 +17009,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.091.webp",
-      "foto_version": "3e6916ec3b6934",
+      "foto_version": "373c788164243b",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17065,7 +17065,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.092.webp",
-      "foto_version": "7070b6e4f2ece9",
+      "foto_version": "12efe5dea4deef",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17121,7 +17121,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.093.webp",
-      "foto_version": "92e766121ceb7a",
+      "foto_version": "89ca61ecc4617c",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17177,7 +17177,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.094.webp",
-      "foto_version": "54e99a178aa8dc",
+      "foto_version": "4c5e3ee6d48d98",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17233,7 +17233,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.095.webp",
-      "foto_version": "5cbbaa9b95bbb4",
+      "foto_version": "5d0d2a214af25b",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17289,7 +17289,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.096.webp",
-      "foto_version": "97764725db64fb",
+      "foto_version": "bb6d372a5778b6",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17345,7 +17345,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.097.webp",
-      "foto_version": "eb2f3388d184c6",
+      "foto_version": "2babb4dec7b6e4",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17401,7 +17401,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.098.webp",
-      "foto_version": "2f7d33b47ed5de",
+      "foto_version": "f2d83c149d4f28",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17457,7 +17457,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.099.webp",
-      "foto_version": "ec35b0601c3b35",
+      "foto_version": "b701f8cc316864",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17513,7 +17513,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.100.webp",
-      "foto_version": "cb7d83869f6d8e",
+      "foto_version": "e47f6f10b29c4c",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17569,7 +17569,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.101.webp",
-      "foto_version": "638fd9f300bbb7",
+      "foto_version": "415bf9024978b6",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17625,7 +17625,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.102.webp",
-      "foto_version": "593920569b9164",
+      "foto_version": "afce46cf983468",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17681,7 +17681,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.103.webp",
-      "foto_version": "440e96f9ab82b0",
+      "foto_version": "a54ac99da697ed",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17737,7 +17737,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.104.webp",
-      "foto_version": "1087f0d51afdb4",
+      "foto_version": "28705059a1f54d",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17793,7 +17793,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.105.webp",
-      "foto_version": "901f6ec9cbafb9",
+      "foto_version": "25a3419f3aea70",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17849,7 +17849,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.106.webp",
-      "foto_version": "52bba90b294c9f",
+      "foto_version": "a9b20c0e26cd5e",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17905,7 +17905,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.107.webp",
-      "foto_version": "9721619c23aff5",
+      "foto_version": "cb29dca8eff134",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -17961,7 +17961,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.108.webp",
-      "foto_version": "144ca7a78fdf93",
+      "foto_version": "b2bf4e2aee2f85",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -18017,7 +18017,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.109.webp",
-      "foto_version": "af16546f438c36",
+      "foto_version": "97a410e7286329",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -18073,7 +18073,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.110.webp",
-      "foto_version": "d1d095fc9fbe5f",
+      "foto_version": "a57619881a5993",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -18129,7 +18129,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.111.webp",
-      "foto_version": "4834cfcfe0de05",
+      "foto_version": "923b7a9410ebd7",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -18185,7 +18185,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.112.webp",
-      "foto_version": "b9354c2d75766e",
+      "foto_version": "b8a508da3de169",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -18241,7 +18241,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.113.webp",
-      "foto_version": "a822850ca59fa2",
+      "foto_version": "2d21366beeac56",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -18297,7 +18297,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.114.webp",
-      "foto_version": "46cfedc1e73b9a",
+      "foto_version": "939b1ce80245e3",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -18353,7 +18353,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.115.webp",
-      "foto_version": "9dda69468df43e",
+      "foto_version": "39e442a195d791",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -18409,7 +18409,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.116.webp",
-      "foto_version": "af32d2a8710c19",
+      "foto_version": "ece82613d82e85",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -18465,7 +18465,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.117.webp",
-      "foto_version": "c6ba0f51efe406",
+      "foto_version": "d77bd29fc1ea70",
       "documentos": [
         {
           "tipo": "FACTURA",
@@ -18521,7 +18521,7 @@
       "motivo_baja": null,
       "observaciones": "NUEVO",
       "foto_url": "./assets/bienes/FIAS.26.03.118.webp",
-      "foto_version": "66c982c1a2b07c",
+      "foto_version": "bc03406a85f238",
       "documentos": [
         {
           "tipo": "FACTURA",
