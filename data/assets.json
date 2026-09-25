@@ -1,9 +1,9 @@
 {
   "meta": {
     "schemaVersion": 4,
-    "generatedAt": "2026-09-24T15:09:03.048711Z",
-    "sourceLastModified": "2026-09-24T14:15:50Z",
-    "sourceETag": "\"{1A1CDC3E-FDB8-41B0-8591-D30A37D5C5D2},2797\"",
+    "generatedAt": "2026-09-25T22:50:20.620837Z",
+    "sourceLastModified": "2026-09-25T20:00:29Z",
+    "sourceETag": "\"{1A1CDC3E-FDB8-41B0-8591-D30A37D5C5D2},2802\"",
     "sourceName": "INVENTARIO FIAS INSTITUCIONAL VFD.xlsx",
     "assetCount": 439,
     "mode": "synchronized-json-local-media",
@@ -18499,7 +18499,7 @@
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
       "numero_factura": "Pendiente",
-      "valor_adquisicion": 305.88849999999996,
+      "valor_adquisicion": 305.8399999,
       "marca": "ZEBRA",
       "modelo": "Z230T",
       "serie": "D5N261000013",
