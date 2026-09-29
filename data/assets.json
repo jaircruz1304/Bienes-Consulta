@@ -1,9 +1,9 @@
 {
   "meta": {
     "schemaVersion": 4,
-    "generatedAt": "2026-09-28T21:20:39.491850Z",
-    "sourceLastModified": "2026-09-28T21:19:57Z",
-    "sourceETag": "\"{1A1CDC3E-FDB8-41B0-8591-D30A37D5C5D2},2806\"",
+    "generatedAt": "2026-09-29T01:11:25.255129Z",
+    "sourceLastModified": "2026-09-28T22:14:40Z",
+    "sourceETag": "\"{1A1CDC3E-FDB8-41B0-8591-D30A37D5C5D2},2821\"",
     "sourceName": "INVENTARIO FIAS INSTITUCIONAL VFD.xlsx",
     "assetCount": 439,
     "mode": "synchronized-json-local-media",
@@ -16538,7 +16538,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16565,8 +16565,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -16594,7 +16594,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16621,8 +16621,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -16650,7 +16650,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16677,8 +16677,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -16706,7 +16706,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16733,8 +16733,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -16762,7 +16762,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16789,8 +16789,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -16818,7 +16818,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16845,8 +16845,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -16874,7 +16874,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16901,8 +16901,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -16930,7 +16930,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -16957,8 +16957,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -16986,7 +16986,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17013,8 +17013,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17042,7 +17042,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17069,8 +17069,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17098,7 +17098,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17125,8 +17125,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17154,7 +17154,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17181,8 +17181,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17210,7 +17210,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17237,8 +17237,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17266,7 +17266,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17293,8 +17293,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17322,7 +17322,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17349,8 +17349,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17378,7 +17378,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17405,8 +17405,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17434,7 +17434,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17461,8 +17461,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17490,7 +17490,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17517,8 +17517,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17546,7 +17546,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17573,8 +17573,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17602,7 +17602,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 1253.4885,
       "marca": "ASUS",
       "modelo": "ExpertBook P3 (PM3606)",
@@ -17629,8 +17629,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17658,7 +17658,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -17685,8 +17685,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17714,7 +17714,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -17741,8 +17741,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17770,7 +17770,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -17797,8 +17797,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17826,7 +17826,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -17853,8 +17853,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17882,7 +17882,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -17909,8 +17909,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17938,7 +17938,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -17965,8 +17965,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -17994,7 +17994,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -18021,8 +18021,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -18050,7 +18050,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -18077,8 +18077,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -18106,7 +18106,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -18133,8 +18133,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -18162,7 +18162,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -18189,8 +18189,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -18218,7 +18218,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -18245,8 +18245,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -18274,7 +18274,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -18301,8 +18301,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -18330,7 +18330,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -18357,8 +18357,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -18386,7 +18386,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -18413,8 +18413,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -18442,7 +18442,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 140.62199999999999,
       "marca": "Indurama",
       "modelo": "Vortix Nova",
@@ -18469,8 +18469,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
@@ -18498,7 +18498,7 @@
       "fecha_compra": "2026-09-21",
       "donante": "KFW",
       "proveedor": "ROMSEGROUP CIA. LTDA.",
-      "numero_factura": "Pendiente",
+      "numero_factura": "001-002-000002648",
       "valor_adquisicion": 305.8399999,
       "marca": "ZEBRA",
       "modelo": "Z230T",
@@ -18525,8 +18525,8 @@
       "documentos": [
         {
           "tipo": "FACTURA",
-          "nombre": "Factura Pendiente",
-          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQAda13JGmxuRYY1JZYEzFiYAQUaxRNVzgcZ5ujkagQ4Q-4?e=aF7x3K"
+          "nombre": "Factura 001-002-000002648",
+          "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/IQCDRlGmWyI3SouOCOJmJnc5Ab010PBqZaDOCbL8WTAJ6Bw"
         },
         {
           "tipo": "POLIZA",
