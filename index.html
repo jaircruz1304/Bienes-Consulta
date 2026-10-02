@@ -44,6 +44,10 @@
       <div class="search-row">
         <input id="searchInput" type="search" placeholder="Ej. FIAS.26.03.083" aria-autocomplete="list">
         <button class="btn" type="submit">Consultar</button>
+        <button id="scannerBtn" class="btn btn-scan" type="button" aria-haspopup="dialog" aria-controls="scannerModal">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8V5a1 1 0 0 1 1-1h3M16 4h3a1 1 0 0 1 1 1v3M20 16v3a1 1 0 0 1-1 1h-3M8 20H5a1 1 0 0 1-1-1v-3M8 9h8v6H8z"/></svg>
+          Escanear etiqueta
+        </button>
       </div>
       <div id="suggestions" class="suggestions" hidden></div>
     </form>
@@ -116,6 +120,57 @@
   </article>
 </main>
 
+
+<div id="scannerModal" class="scanner-modal" hidden role="dialog" aria-modal="true" aria-labelledby="scannerTitle">
+  <div class="scanner-backdrop" data-scanner-close></div>
+  <section class="scanner-dialog">
+    <header class="scanner-header">
+      <div>
+        <p class="eyebrow">LECTURA ASISTIDA</p>
+        <h2 id="scannerTitle">Escanear etiqueta del bien</h2>
+        <p>La cámara intenta leer primero el QR. Si la etiqueta no tiene QR, utilice la lectura de texto (OCR).</p>
+      </div>
+      <button id="scannerClose" class="scanner-close" type="button" aria-label="Cerrar lector">×</button>
+    </header>
+
+    <div class="scanner-layout">
+      <div class="scanner-view-column">
+        <div id="scannerStage" class="scanner-stage">
+          <video id="scannerVideo" playsinline muted autoplay></video>
+          <img id="scannerPreview" alt="Imagen seleccionada para analizar" hidden>
+          <div class="scanner-guide" aria-hidden="true">
+            <span></span><span></span><span></span><span></span>
+            <small>Ubique la etiqueta dentro del recuadro</small>
+          </div>
+        </div>
+
+        <div id="scannerStatus" class="scanner-status" role="status" aria-live="polite">Preparando cámara…</div>
+        <div id="scannerProgress" class="scanner-progress" hidden>
+          <div class="scanner-progress-track"><span id="scannerProgressBar"></span></div>
+          <small id="scannerProgressText">Preparando OCR…</small>
+        </div>
+
+        <div class="scanner-controls">
+          <button id="ocrBtn" class="btn" type="button">Leer texto (OCR)</button>
+          <button id="switchCameraBtn" class="btn btn-secondary" type="button" hidden>Cambiar cámara</button>
+          <label class="btn btn-secondary scanner-file-btn">
+            Usar foto
+            <input id="scanFileInput" type="file" accept="image/*" capture="environment" hidden>
+          </label>
+        </div>
+      </div>
+
+      <aside class="scanner-help">
+        <h3>Cómo funciona</h3>
+        <div class="scanner-step"><b>1</b><span><strong>QR actual o antiguo</strong><small>Puede contener una URL, el código del activo o texto adicional. Se buscará el código institucional dentro del contenido.</small></span></div>
+        <div class="scanner-step"><b>2</b><span><strong>Etiqueta sin QR</strong><small>Pulse “Leer texto (OCR)” y mantenga visible el código impreso, por ejemplo FIAS.18.01.128 o MOE001REM.36.</small></span></div>
+        <div class="scanner-step"><b>3</b><span><strong>Coincidencia</strong><small>Si el código se identifica con alta confianza, la ficha se abre automáticamente. Si hay duda, se muestran opciones.</small></span></div>
+        <div id="scannerResults" class="scanner-results" hidden></div>
+      </aside>
+    </div>
+  </section>
+</div>
+
 <footer class="footer">
   <div class="footer-inner">
     <span class="footer-system"><strong>FIAS</strong> · Consulta institucional de bienes</span>
@@ -132,5 +187,6 @@
 
 <script src="./config.js"></script>
 <script src="./app.js"></script>
+<script src="./scanner.js"></script>
 </body>
 </html>

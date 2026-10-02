@@ -140,6 +140,20 @@
     $('freshness').textContent=`Actualizado ${new Intl.DateTimeFormat('es-EC',{dateStyle:'medium',timeStyle:'short'}).format(d)}`;show($('freshness'),true);
   }
 
+  window.BIENES_APP = {
+    getAssets: () => payload.assets,
+    openByCode: code => {
+      const a=find(code);
+      if(!a) return false;
+      $('searchInput').value=a.codigo;
+      show($('suggestions'),false);
+      render(a);
+      return true;
+    },
+    searchAssets: q => search(q),
+    normalize: norm
+  };
+
   $('searchForm').addEventListener('submit',e=>{e.preventDefault();show($('suggestions'),false);open($('searchInput').value)});
   $('searchInput').addEventListener('input',e=>suggestions(e.target.value));
   $('printBtn').addEventListener('click',()=>window.print());

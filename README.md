@@ -43,3 +43,7 @@ No cambian:
 ## Documentación adicional
 
 Ver `README_UI_V8.md` para detalles de formatos, manifest, caché y operación.
+
+## v9 — Escaneo de etiquetas
+
+La interfaz incorpora `Escanear etiqueta`, con lectura continua de QR y OCR bajo demanda. Consulte `README_UI_V9.md` para funcionamiento, compatibilidad y privacidad.
