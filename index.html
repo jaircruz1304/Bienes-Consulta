@@ -7,6 +7,11 @@
   <meta name="theme-color" content="#005596">
   <title>Consulta de Bienes | FIAS</title>
   <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="apple-touch-icon" href="./assets/icons/icon-192.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Bienes FIAS">
   <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
@@ -25,6 +30,7 @@
     </a>
 
     <div class="top-actions">
+      <button id="installBtn" class="btn btn-quiet" type="button" hidden>Instalar app</button>
       <a class="portal-link" href="https://jaircruz1304.github.io/FIAS/Portal-Digital.html#herramientas" target="_blank" rel="noopener noreferrer">Portal Digital</a>
       <button id="printBtn" class="btn btn-quiet" type="button" hidden>Imprimir ficha</button>
     </div>
@@ -188,5 +194,6 @@
 <script src="./config.js"></script>
 <script src="./app.js"></script>
 <script src="./scanner.js"></script>
+<script src="./pwa.js"></script>
 </body>
 </html>
