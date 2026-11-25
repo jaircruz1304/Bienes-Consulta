@@ -1,9 +1,9 @@
 {
   "meta": {
     "schemaVersion": 4,
-    "generatedAt": "2026-11-20T02:39:01.130048Z",
-    "sourceLastModified": "2026-11-19T21:15:12Z",
-    "sourceETag": "\"{1A1CDC3E-FDB8-41B0-8591-D30A37D5C5D2},3045\"",
+    "generatedAt": "2026-11-25T22:48:55.539485Z",
+    "sourceLastModified": "2026-11-25T17:58:47Z",
+    "sourceETag": "\"{1A1CDC3E-FDB8-41B0-8591-D30A37D5C5D2},3077\"",
     "sourceName": "INVENTARIO FIAS INSTITUCIONAL VFD.xlsx",
     "assetCount": 439,
     "mode": "synchronized-json-local-media",
@@ -8885,7 +8885,7 @@
       "vida_util": 3,
       "fecha_baja": null,
       "motivo_baja": null,
-      "observaciones": "DAR DE BAJA SOLO CPU",
+      "observaciones": "SOLO HAY EL DISCO DEL CPU",
       "foto_url": "./assets/bienes/FIAS.18.03.007.webp",
       "foto_version": "cc7e177497ad41",
       "documentos": [
@@ -8900,13 +8900,7 @@
           "url": "./assets/bienes/FIAS.18.03.007.webp"
         }
       ],
-      "estados_especiales": [
-        {
-          "codigo": "PROCESO_BAJA",
-          "etiqueta": "Proceso de baja",
-          "nivel": "advertencia"
-        }
-      ]
+      "estados_especiales": []
     },
     {
       "codigo": "FIAS.18.03.008",
@@ -9096,7 +9090,7 @@
       "vida_util": 3,
       "fecha_baja": null,
       "motivo_baja": null,
-      "observaciones": "DAR DE BAJA SOLO CPU",
+      "observaciones": "SOLO HAY EL DISCO DEL CPU",
       "foto_url": null,
       "foto_version": null,
       "documentos": [
@@ -9106,13 +9100,7 @@
           "url": "https://fiasec-my.sharepoint.com/:b:/g/personal/jcruzg_fias_org_ec/ESS6TTpFm15LrirZ6w9X2QMBuQmolRrqyKUM2H3emPofbg"
         }
       ],
-      "estados_especiales": [
-        {
-          "codigo": "PROCESO_BAJA",
-          "etiqueta": "Proceso de baja",
-          "nivel": "advertencia"
-        }
-      ]
+      "estados_especiales": []
     },
     {
       "codigo": "FIAS.18.03.019",
@@ -9146,7 +9134,7 @@
       "vida_util": 3,
       "fecha_baja": null,
       "motivo_baja": null,
-      "observaciones": "DAR DE BAJA SOLO CPU",
+      "observaciones": "SOLO HAY EL DISCO DEL CPU",
       "foto_url": "./assets/bienes/FIAS.18.03.019.webp",
       "foto_version": "e6558cbc6d70e5",
       "documentos": [
@@ -9161,13 +9149,7 @@
           "url": "./assets/bienes/FIAS.18.03.019.webp"
         }
       ],
-      "estados_especiales": [
-        {
-          "codigo": "PROCESO_BAJA",
-          "etiqueta": "Proceso de baja",
-          "nivel": "advertencia"
-        }
-      ]
+      "estados_especiales": []
     },
     {
       "codigo": "FIAS.18.03.020",
@@ -9201,7 +9183,7 @@
       "vida_util": 3,
       "fecha_baja": null,
       "motivo_baja": null,
-      "observaciones": "DAR DE BAJA SOLO CPU",
+      "observaciones": "SOLO HAY EL DISCO DEL CPU",
       "foto_url": "./assets/bienes/FIAS.18.03.020.webp",
       "foto_version": "7eb97e0c2248fc",
       "documentos": [
@@ -9216,13 +9198,7 @@
           "url": "./assets/bienes/FIAS.18.03.020.webp"
         }
       ],
-      "estados_especiales": [
-        {
-          "codigo": "PROCESO_BAJA",
-          "etiqueta": "Proceso de baja",
-          "nivel": "advertencia"
-        }
-      ]
+      "estados_especiales": []
     },
     {
       "codigo": "FIAS.18.03.021",
@@ -9256,7 +9232,7 @@
       "vida_util": 3,
       "fecha_baja": null,
       "motivo_baja": null,
-      "observaciones": "DAR DE BAJA SOLO CPU",
+      "observaciones": "SOLO HAY EL DISCO DEL CPU",
       "foto_url": "./assets/bienes/FIAS.18.03.021.webp",
       "foto_version": "660fa7271c80a7",
       "documentos": [
@@ -9271,13 +9247,7 @@
           "url": "./assets/bienes/FIAS.18.03.021.webp"
         }
       ],
-      "estados_especiales": [
-        {
-          "codigo": "PROCESO_BAJA",
-          "etiqueta": "Proceso de baja",
-          "nivel": "advertencia"
-        }
-      ]
+      "estados_especiales": []
     },
     {
       "codigo": "FIAS.18.03.022",
@@ -9311,7 +9281,7 @@
       "vida_util": 3,
       "fecha_baja": null,
       "motivo_baja": null,
-      "observaciones": "DAR DE BAJA SOLO CPU",
+      "observaciones": "SOLO HAY EL DISCO DEL CPU",
       "foto_url": "./assets/bienes/FIAS.18.03.022.webp",
       "foto_version": "1b4a44a38ef240",
       "documentos": [
@@ -9326,13 +9296,7 @@
           "url": "./assets/bienes/FIAS.18.03.022.webp"
         }
       ],
-      "estados_especiales": [
-        {
-          "codigo": "PROCESO_BAJA",
-          "etiqueta": "Proceso de baja",
-          "nivel": "advertencia"
-        }
-      ]
+      "estados_especiales": []
     },
     {
       "codigo": "FIAS.18.03.023",
@@ -9366,7 +9330,7 @@
       "vida_util": 3,
       "fecha_baja": null,
       "motivo_baja": null,
-      "observaciones": "DAR DE BAJA SOLO CPU",
+      "observaciones": "SOLO HAY EL DISCO DEL CPU",
       "foto_url": "./assets/bienes/FIAS.18.03.023.webp",
       "foto_version": "14e4993fd11dff",
       "documentos": [
@@ -9381,13 +9345,7 @@
           "url": "./assets/bienes/FIAS.18.03.023.webp"
         }
       ],
-      "estados_especiales": [
-        {
-          "codigo": "PROCESO_BAJA",
-          "etiqueta": "Proceso de baja",
-          "nivel": "advertencia"
-        }
-      ]
+      "estados_especiales": []
     },
     {
       "codigo": "FIAS.18.03.024",
@@ -16252,7 +16210,7 @@
       "custodio": "DISPONIBLE",
       "institucion": "FIAS",
       "ubicacion": "AREA ADMINISTRATIVA",
-      "asegurado": "NO",
+      "asegurado": "SI",
       "inicio_seguro": "N/A",
       "fin_seguro": "N/A",
       "aseguradora": "N/A",
@@ -16301,7 +16259,7 @@
       "custodio": "DISPONIBLE",
       "institucion": "FIAS",
       "ubicacion": "AREA ADMINISTRATIVA",
-      "asegurado": "NO",
+      "asegurado": "SI",
       "inicio_seguro": "N/A",
       "fin_seguro": "N/A",
       "aseguradora": "N/A",
@@ -16350,7 +16308,7 @@
       "custodio": "DISPONIBLE",
       "institucion": "FIAS",
       "ubicacion": "DATA CENTER",
-      "asegurado": "NO",
+      "asegurado": "SI",
       "inicio_seguro": "N/A",
       "fin_seguro": "N/A",
       "aseguradora": "N/A",
@@ -16399,7 +16357,7 @@
       "custodio": "DISPONIBLE",
       "institucion": "FIAS",
       "ubicacion": "DATA CENTER",
-      "asegurado": "NO",
+      "asegurado": "SI",
       "inicio_seguro": "N/A",
       "fin_seguro": "N/A",
       "aseguradora": "N/A",
@@ -16448,7 +16406,7 @@
       "custodio": "CABEZAS CRIOLLO LEONARDO ALEXANDER",
       "institucion": "FIAS",
       "ubicacion": "GERENCIA ADMINISTRATIVA FINANCIERA",
-      "asegurado": "NO",
+      "asegurado": "SI",
       "inicio_seguro": "N/A",
       "fin_seguro": "N/A",
       "aseguradora": "N/A",
@@ -16497,7 +16455,7 @@
       "custodio": "MORALES JARAMILLO DANIEL ALFREDO",
       "institucion": "FIAS",
       "ubicacion": "DATA CENTER",
-      "asegurado": "NO",
+      "asegurado": "SI",
       "inicio_seguro": "N/A",
       "fin_seguro": "N/A",
       "aseguradora": "N/A",
